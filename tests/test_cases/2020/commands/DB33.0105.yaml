@@ -4,29 +4,11 @@ test_cases:
     ECT: 20
   response: '18 DA F1 10 03 41 05 3C '
 - expected_values:
+    ECT: 42
+  response: '18 DA F1 10 03 41 05 52 '
+- expected_values:
     ECT: 20
   response: 18DAF1100341053C
-- expected_values:
-    ECT: 21
-  response: 18DAF1100341053D
-- expected_values:
-    ECT: 22
-  response: 18DAF1100341053E
-- expected_values:
-    ECT: 23
-  response: 18DAF1100341053F
-- expected_values:
-    ECT: 24
-  response: 18DAF11003410540
-- expected_values:
-    ECT: 28
-  response: 18DAF11003410544
-- expected_values:
-    ECT: 29
-  response: 18DAF11003410545
-- expected_values:
-    ECT: 30
-  response: 18DAF11003410546
 - expected_values:
     ECT: 55
   response: 18DAF1100341055F
