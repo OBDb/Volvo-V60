@@ -1,6 +1,9 @@
 command_id: DB33.015B
 test_cases:
 - expected_values:
+    BAT_SOC: 0
+  response: '18 DA F1 10 03 41 5B 00 '
+- expected_values:
     BAT_SOC: 41.56863
   response: '18 DA F1 10 03 41 5B 6A '
 - expected_values:
