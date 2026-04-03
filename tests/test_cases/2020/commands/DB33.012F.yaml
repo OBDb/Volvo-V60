@@ -7,8 +7,8 @@ test_cases:
     FLI: 72.94118
   response: '18 DA F1 10 03 41 2F BA '
 - expected_values:
-    FLI: 64.70588
-  response: 18DAF11003412FA5
+    FLI: 55.68627
+  response: 18DAF11003412F8E
 - expected_values:
-    FLI: 77.64706
-  response: 18DAF11003412FC6
+    FLI: 80
+  response: 18DAF11003412FCC

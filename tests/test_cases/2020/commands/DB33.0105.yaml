@@ -7,8 +7,8 @@ test_cases:
     ECT: 42
   response: '18 DA F1 10 03 41 05 52 '
 - expected_values:
-    ECT: 20
-  response: 18DAF1100341053C
+    ECT: 12
+  response: 18DAF11003410534
 - expected_values:
     ECT: 55
   response: 18DAF1100341055F
