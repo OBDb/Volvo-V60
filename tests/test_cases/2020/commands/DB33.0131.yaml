@@ -4,8 +4,8 @@ test_cases:
     CLR_DIST: 6688
   response: '18 DA F1 10 04 41 31 1A 20 '
 - expected_values:
-    CLR_DIST: 6648
-  response: 18DAF11004413119F8
+    CLR_DIST: 6511
+  response: 18DAF110044131196F
 - expected_values:
     CLR_DIST: 6654
   response: 18DAF11004413119FE
