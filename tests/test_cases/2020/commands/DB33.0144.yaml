@@ -7,14 +7,14 @@ test_cases:
     EQ_RAT: 0.8444
   response: '18 DA F1 10 04 41 44 6C 15 '
 - expected_values:
-    EQ_RAT: 0.83897
-  response: 18DAF1100441446B63
+    EQ_RAT: 0.83864
+  response: 18DAF1100441446B58
 - expected_values:
-    EQ_RAT: 0.84315
-  response: 18DAF1100441446BEC
+    EQ_RAT: 0.96876
+  response: 18DAF1100441447C00
 - expected_values:
-    EQ_RAT: 1.00795
-  response: 18DAF1100441448104
+    EQ_RAT: 1.01558
+  response: 18DAF11004414481FE
 - expected_values:
     EQ_RAT: 1.07277
   response: 18DAF1100441448950
