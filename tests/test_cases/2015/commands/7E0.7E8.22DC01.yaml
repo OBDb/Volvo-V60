@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DC01
+test_cases:
+- expected_values:
+    VOLVO_EGR_VLV_CMD_POS: 13
+  response: 7E80562DC01000D
+- expected_values:
+    VOLVO_EGR_VLV_CMD_POS: 1762
+  response: 7E80562DC0106E2
+- expected_values:
+    VOLVO_EGR_VLV_CMD_POS: 7876
+  response: 7E80562DC011EC4

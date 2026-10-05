@@ -1,0 +1,8 @@
+command_id: '726.224028'
+test_cases:
+- expected_values:
+    VOLVO_BAT_ST_CHG_726: 77
+  response: 72E046240284D
+- expected_values:
+    VOLVO_BAT_ST_CHG_726: 78
+  response: 72E046240284E

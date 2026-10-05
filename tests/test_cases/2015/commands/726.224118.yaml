@@ -1,0 +1,5 @@
+command_id: '726.224118'
+test_cases:
+- expected_values:
+    VOLVO_FLI_SENS_EJECTOR: 0
+  response: '72E056241180000'

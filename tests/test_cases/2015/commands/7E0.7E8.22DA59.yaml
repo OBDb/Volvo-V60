@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DA59
+test_cases:
+- expected_values:
+    VOLVO_FRONT_OXYGEN_SENS: 0
+  response: 7E80562DA590000
+- expected_values:
+    VOLVO_FRONT_OXYGEN_SENS: 51
+  response: 7E80562DA5901FE
+- expected_values:
+    VOLVO_FRONT_OXYGEN_SENS: 283.4
+  response: 7E80562DA590B12

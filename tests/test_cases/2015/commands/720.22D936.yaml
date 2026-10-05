@@ -1,0 +1,22 @@
+command_id: 720.22D936
+test_cases:
+- expected_values:
+    VOLVO_TRIP_1: 267.9
+  response: |-
+    728100A62D936010001
+    728210A770001000000
+- expected_values:
+    VOLVO_TRIP_1: 268.4
+  response: |-
+    728100A62D936010001
+    728210A7C0001000000
+- expected_values:
+    VOLVO_TRIP_1: 269.4
+  response: |-
+    728100A62D936010001
+    728210A860001000000
+- expected_values:
+    VOLVO_TRIP_1: 270.3
+  response: |-
+    728100A62D936010001
+    728210A8F0001000000

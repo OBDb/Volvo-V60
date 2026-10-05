@@ -1,0 +1,8 @@
+command_id: 7E1.22DCEA
+test_cases:
+- expected_values:
+    VOLVO_SELECTOR: 0
+  response: 7E90462DCEA00
+- expected_values:
+    VOLVO_SELECTOR: 20
+  response: 7E90462DCEA28

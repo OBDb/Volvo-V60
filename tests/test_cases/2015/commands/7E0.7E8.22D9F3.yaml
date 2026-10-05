@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22D9F3
+test_cases:
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 0
+  response: 7E80562D9F30000
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 7
+  response: 7E80562D9F30007
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 10
+  response: 7E80562D9F3000A
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 11
+  response: 7E80562D9F3000B
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 12
+  response: 7E80562D9F3000C
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 15
+  response: 7E80562D9F3000F
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 17
+  response: 7E80562D9F30011
+- expected_values:
+    VOLVO_M3_DIFF_PRESS: 21
+  response: 7E80562D9F30015

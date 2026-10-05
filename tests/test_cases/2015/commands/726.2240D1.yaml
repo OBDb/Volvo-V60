@@ -1,0 +1,5 @@
+command_id: 726.2240D1
+test_cases:
+- expected_values:
+    VOLVO_ALTERNATOR_CTRL_MODE: 0
+  response: 72E046240D100

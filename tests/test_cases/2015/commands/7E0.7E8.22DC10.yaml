@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22DC10
+test_cases:
+- expected_values:
+    VOLVO_TURBO_CTRL_VLV_WASTEGATE: 100.01221
+  response: 7E80562DC102000

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 19
+  response: 7E80462F40F3B
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 20
+  response: 7E80462F40F3C
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 21
+  response: 7E80462F40F3D
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 22
+  response: 7E80462F40F3E
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 27
+  response: 7E80462F40F43

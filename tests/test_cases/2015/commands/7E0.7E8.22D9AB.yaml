@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22D9AB
+test_cases:
+- expected_values:
+    VOLVO_TMAP_IAT: 15.76
+  response: 7E80562D9AB0B49
+- expected_values:
+    VOLVO_TMAP_IAT: 15.86
+  response: 7E80562D9AB0B4A
+- expected_values:
+    VOLVO_TMAP_IAT: 16.06
+  response: 7E80562D9AB0B4C
+- expected_values:
+    VOLVO_TMAP_IAT: 16.26
+  response: 7E80562D9AB0B4E
+- expected_values:
+    VOLVO_TMAP_IAT: 16.46
+  response: 7E80562D9AB0B50
+- expected_values:
+    VOLVO_TMAP_IAT: 17.16
+  response: 7E80562D9AB0B57
+- expected_values:
+    VOLVO_TMAP_IAT: 17.66
+  response: 7E80562D9AB0B5C
+- expected_values:
+    VOLVO_TMAP_IAT: 17.96
+  response: 7E80562D9AB0B5F
+- expected_values:
+    VOLVO_TMAP_IAT: 18.06
+  response: 7E80562D9AB0B60
+- expected_values:
+    VOLVO_TMAP_IAT: 18.66
+  response: 7E80562D9AB0B66

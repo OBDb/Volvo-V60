@@ -1,0 +1,11 @@
+command_id: 7E1.221E14
+test_cases:
+- expected_values:
+    VOLVO_T_CONV: 56
+  response: 7E905621E140038
+- expected_values:
+    VOLVO_T_CONV: 198
+  response: 7E905621E1400C6
+- expected_values:
+    VOLVO_T_CONV: 65530
+  response: 7E905621E14FFFA

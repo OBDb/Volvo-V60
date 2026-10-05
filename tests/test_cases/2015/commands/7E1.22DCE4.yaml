@@ -1,0 +1,5 @@
+command_id: 7E1.22DCE4
+test_cases:
+- expected_values:
+    VOLVO_KICKDOWN: 0
+  response: 7E90462DCE400

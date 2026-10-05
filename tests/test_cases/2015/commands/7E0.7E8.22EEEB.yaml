@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22EEEB
+test_cases:
+- expected_values:
+    VOLVO_STARTER_RELAY_2: 0
+  response: 7E80462EEEB00

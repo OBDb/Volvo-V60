@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22D943
+test_cases:
+- expected_values:
+    VOLVO_BRAKE_SWITCH: 0
+  response: 7E80462D94300
+- expected_values:
+    VOLVO_BRAKE_SWITCH: 0.39216
+  response: 7E80462D94301

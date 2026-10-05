@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22EE84
+test_cases:
+- expected_values:
+    VOLVO_SUPERCHARGER_CLU_REQ: 1
+  response: 7E80462EE8401
+- expected_values:
+    VOLVO_SUPERCHARGER_CLU_REQ: 2
+  response: 7E80462EE8402
+- expected_values:
+    VOLVO_SUPERCHARGER_CLU_REQ: 3
+  response: 7E80462EE8403

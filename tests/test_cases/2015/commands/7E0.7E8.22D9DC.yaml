@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22D9DC
+test_cases:
+- expected_values:
+    VOLVO_EOT_V2: 51.76
+  response: 7E80562D9DC0CB1
+- expected_values:
+    VOLVO_EOT_V2: 57.76
+  response: 7E80562D9DC0CED
+- expected_values:
+    VOLVO_EOT_V2: 59.76
+  response: 7E80562D9DC0D01

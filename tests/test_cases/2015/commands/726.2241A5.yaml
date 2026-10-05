@@ -1,0 +1,17 @@
+command_id: 726.2241A5
+test_cases:
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12820
+  response: 72E056241A53214
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12832
+  response: 72E056241A53220
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12847
+  response: 72E056241A5322F
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12923
+  response: 72E056241A5327B
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12939
+  response: 72E056241A5328B

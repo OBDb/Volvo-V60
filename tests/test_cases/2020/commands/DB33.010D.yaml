@@ -4,8 +4,11 @@ test_cases:
     VSS: 0
   response: '18 DA F1 10 03 41 0D 00 '
 - expected_values:
+    VSS: null
+  response: '18 DA F1 10 03 41 0D FF '
+- expected_values:
     VSS: 0
   response: 18DAF11003410D00
 - expected_values:
-    VSS: 249
-  response: 18DAF11003410DF9
+    VSS: null
+  response: 18DAF11003410DFF

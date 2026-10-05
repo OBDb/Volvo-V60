@@ -1,0 +1,14 @@
+command_id: '760.223302'
+test_cases:
+- expected_values:
+    VOLVO_STEER_ANG_ACT: 728.1
+  response: 768056233021C71
+- expected_values:
+    VOLVO_STEER_ANG_ACT: 777.6
+  response: '768056233021E60'
+- expected_values:
+    VOLVO_STEER_ANG_ACT: 780.2
+  response: 768056233021E7A
+- expected_values:
+    VOLVO_STEER_ANG_ACT: 1168.6
+  response: 768056233022DA6

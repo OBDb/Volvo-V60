@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22EF52
+test_cases:
+- expected_values:
+    VOLVO_START_STOP_SECONDARY: 1
+  response: 7E80462EF5201

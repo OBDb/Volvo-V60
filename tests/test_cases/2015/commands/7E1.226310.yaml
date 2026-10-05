@@ -1,0 +1,8 @@
+command_id: 7E1.226310
+test_cases:
+- expected_values:
+    VOLVO_GEAR_SELECTOR_P_0_R_1_N_2_D_3: 0
+  response: '7E90462631000'
+- expected_values:
+    VOLVO_GEAR_SELECTOR_P_0_R_1_N_2_D_3: 3
+  response: '7E90462631003'

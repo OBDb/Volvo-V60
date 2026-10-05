@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DC00
+test_cases:
+- expected_values:
+    VOLVO_TURBO_CTRL_VLV: 0
+  response: 7E80562DC000000
+- expected_values:
+    VOLVO_TURBO_CTRL_VLV: 100.01221
+  response: 7E80562DC002000

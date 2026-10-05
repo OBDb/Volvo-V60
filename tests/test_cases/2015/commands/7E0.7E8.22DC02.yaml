@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DC02
+test_cases:
+- expected_values:
+    VOLVO_FAN: 7
+  response: 7E80562DC0202BC
+- expected_values:
+    VOLVO_FAN: 15
+  response: 7E80562DC0205DC
+- expected_values:
+    VOLVO_FAN: 29
+  response: 7E80562DC020B54

@@ -1,0 +1,5 @@
+command_id: 756.222B20
+test_cases:
+- expected_values:
+    VOLVO_PARKING_BRAKE_CNT: 9848
+  response: 75E07622B2000002678

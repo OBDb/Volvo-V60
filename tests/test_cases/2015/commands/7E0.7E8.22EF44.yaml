@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22EF44
+test_cases:
+- expected_values:
+    VOLVO_START_STOP_BRAKE_P: 0
+  response: 7E80562EF440000

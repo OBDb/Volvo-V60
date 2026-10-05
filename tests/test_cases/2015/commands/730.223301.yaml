@@ -1,0 +1,11 @@
+command_id: '730.223301'
+test_cases:
+- expected_values:
+    VOLVO_STEER_WHL_ANG: 0
+  response: '7380462330100'
+- expected_values:
+    VOLVO_STEER_WHL_ANG: 4
+  response: '7380462330101'
+- expected_values:
+    VOLVO_STEER_WHL_ANG: 36
+  response: '7380462330109'

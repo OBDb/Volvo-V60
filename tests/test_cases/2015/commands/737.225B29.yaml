@@ -1,0 +1,5 @@
+command_id: 737.225B29
+test_cases:
+- expected_values:
+    VOLVO_PASSENGER_AIRBAG_ACTIVATED: 1
+  response: 73F04625B2901

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D909
+test_cases:
+- expected_values:
+    VOLVO_AC_RELAY: 0
+  response: 7E80462D90900

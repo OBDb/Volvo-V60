@@ -1,0 +1,14 @@
+command_id: 760.222B0B
+test_cases:
+- expected_values:
+    VOLVO_YAW_RATE_SIG: 0
+  response: 76805622B0B0000
+- expected_values:
+    VOLVO_YAW_RATE_SIG: 0.4
+  response: 76805622B0B0002
+- expected_values:
+    VOLVO_YAW_RATE_SIG: -3.8
+  response: 76805622B0BFFED
+- expected_values:
+    VOLVO_YAW_RATE_SIG: -0.2
+  response: 76805622B0BFFFF

@@ -1,0 +1,5 @@
+command_id: 756.222B24
+test_cases:
+- expected_values:
+    VOLVO_PARKING_BRAKE_NORMAL_0_32: 1
+  response: 75E07622B2400010000

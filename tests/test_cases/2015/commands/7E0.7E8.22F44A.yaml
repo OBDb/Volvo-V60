@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    VOLVO_M3_APP_CAN: 0
+  response: 7E80462F44A00
+- expected_values:
+    VOLVO_M3_APP_CAN: 7.84314
+  response: 7E80462F44A14
+- expected_values:
+    VOLVO_M3_APP_CAN: 10.58824
+  response: 7E80462F44A1B
+- expected_values:
+    VOLVO_M3_APP_CAN: 17.64706
+  response: 7E80462F44A2D
