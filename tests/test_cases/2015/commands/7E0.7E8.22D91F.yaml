@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22D91F
+test_cases:
+- expected_values:
+    VOLVO_AIR_MASS_DES: 280.9
+  response: 7E80562D91F0AF9
+- expected_values:
+    VOLVO_AIR_MASS_DES: 283
+  response: 7E80562D91F0B0E
+- expected_values:
+    VOLVO_AIR_MASS_DES: 482.3
+  response: 7E80562D91F12D7

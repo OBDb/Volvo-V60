@@ -1,0 +1,5 @@
+command_id: 737.225B48
+test_cases:
+- expected_values:
+    VOLVO_SEAT_BUCKLE_RR: 0
+  response: 73F04625B4800

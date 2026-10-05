@@ -1,0 +1,8 @@
+command_id: 7E1.221E24
+test_cases:
+- expected_values:
+    VOLVO_FIXED_LOCK_UP: 0
+  response: 7E904621E2400
+- expected_values:
+    VOLVO_FIXED_LOCK_UP: 1
+  response: 7E904621E2401

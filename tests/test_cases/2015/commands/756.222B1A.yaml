@@ -1,0 +1,6 @@
+command_id: 756.222B1A
+test_cases:
+- expected_values:
+    VOLVO_LEFT_PARKING_BRAKE: 4
+    VOLVO_RIGHT_PARKING_BRAKE: 4
+  response: 75E07622B1A00040400

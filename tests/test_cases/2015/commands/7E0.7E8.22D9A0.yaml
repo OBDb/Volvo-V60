@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D9A0
+test_cases:
+- expected_values:
+    VOLVO_GLOW_PLUGS: 0
+  response: 7E80762D9A000000000

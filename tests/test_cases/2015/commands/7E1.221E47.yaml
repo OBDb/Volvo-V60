@@ -1,0 +1,11 @@
+command_id: 7E1.221E47
+test_cases:
+- expected_values:
+    VOLVO_LOCK_UP_SOLENOID_SLU_CURRENT: 199
+  response: 7E905621E4700C7
+- expected_values:
+    VOLVO_LOCK_UP_SOLENOID_SLU_CURRENT: 543
+  response: 7E905621E47021F
+- expected_values:
+    VOLVO_LOCK_UP_SOLENOID_SLU_CURRENT: 623
+  response: 7E905621E47026F

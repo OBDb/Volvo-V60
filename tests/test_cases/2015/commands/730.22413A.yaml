@@ -1,0 +1,14 @@
+command_id: 730.22413A
+test_cases:
+- expected_values:
+    VOLVO_SERVO_PMP_SPD_DES: 2460
+  response: 7380462413A7B
+- expected_values:
+    VOLVO_SERVO_PMP_SPD_DES: 2660
+  response: 7380462413A85
+- expected_values:
+    VOLVO_SERVO_PMP_SPD_DES: 2820
+  response: 7380462413A8D
+- expected_values:
+    VOLVO_SERVO_PMP_SPD_DES: 2880
+  response: 7380462413A90

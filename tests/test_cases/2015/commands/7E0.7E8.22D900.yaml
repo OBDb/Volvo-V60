@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22D900
+test_cases:
+- expected_values:
+    VOLVO_AC_P_V2: 574.4
+  response: 7E80562D9000B38
+- expected_values:
+    VOLVO_AC_P_V2: 603.6
+  response: 7E80562D9000BCA
+- expected_values:
+    VOLVO_AC_P_V2: 612
+  response: 7E80562D9000BF4
+- expected_values:
+    VOLVO_AC_P_V2: 616
+  response: 7E80562D9000C08
+- expected_values:
+    VOLVO_AC_P_V2: 624.4
+  response: 7E80562D9000C32
+- expected_values:
+    VOLVO_AC_P_V2: 636.8
+  response: 7E80562D9000C70
+- expected_values:
+    VOLVO_AC_P_V2: 641
+  response: 7E80562D9000C85
+- expected_values:
+    VOLVO_AC_P_V2: 645.2
+  response: 7E80562D9000C9A
+- expected_values:
+    VOLVO_AC_P_V2: 657.6
+  response: 7E80562D9000CD8

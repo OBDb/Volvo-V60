@@ -1,0 +1,5 @@
+command_id: 760.222B05
+test_cases:
+- expected_values:
+    VOLVO_DTSC_SWITCH: 0
+  response: 76807622B0540000000

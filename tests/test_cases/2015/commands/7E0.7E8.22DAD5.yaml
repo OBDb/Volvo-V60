@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DAD5
+test_cases:
+- expected_values:
+    VOLVO_FUEL_VOLUME_CTRL_VLV: 5
+  response: 7E80562DAD501F4
+- expected_values:
+    VOLVO_FUEL_VOLUME_CTRL_VLV: 38.53
+  response: 7E80562DAD50F0D

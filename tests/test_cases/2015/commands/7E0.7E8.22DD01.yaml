@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    VOLVO_MILEAGE_ODO: 268430
+  response: 7E80662DD0104188E
+- expected_values:
+    VOLVO_MILEAGE_ODO: 268431
+  response: 7E80662DD0104188F
+- expected_values:
+    VOLVO_MILEAGE_ODO: 268432
+  response: 7E80662DD01041890

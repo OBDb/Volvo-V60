@@ -1,0 +1,8 @@
+command_id: 760.222B0D
+test_cases:
+- expected_values:
+    VOLVO_BRAKE_P: 0.33333
+  response: 76805622B0D0001
+- expected_values:
+    VOLVO_BRAKE_P: 5.66667
+  response: 76805622B0D0011

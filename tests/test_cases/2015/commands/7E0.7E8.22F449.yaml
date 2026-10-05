@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F449
+test_cases:
+- expected_values:
+    VOLVO_M3_APP_ECM: 8.23529
+  response: 7E80462F44915
+- expected_values:
+    VOLVO_M3_APP_ECM: 18.03922
+  response: 7E80462F4492E

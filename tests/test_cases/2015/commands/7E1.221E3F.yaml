@@ -1,0 +1,11 @@
+command_id: 7E1.221E3F
+test_cases:
+- expected_values:
+    VOLVO_ATF_T_7E1: 10.25
+  response: 7E905621E3F0029
+- expected_values:
+    VOLVO_ATF_T_7E1: 10.75
+  response: 7E905621E3F002B
+- expected_values:
+    VOLVO_ATF_T_7E1: 11.5
+  response: 7E905621E3F002E

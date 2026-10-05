@@ -1,0 +1,5 @@
+command_id: 756.222B14
+test_cases:
+- expected_values:
+    VOLVO_PARK_BRAKE_SWITCH: 0
+  response: 75E04622B1400

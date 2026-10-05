@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F411
+test_cases:
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 30.19608
+  response: 7E80462F4114D
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 89.41176
+  response: 7E80462F411E4
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 89.80392
+  response: 7E80462F411E5
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 90.19608
+  response: 7E80462F411E6
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 90.98039
+  response: 7E80462F411E8
+- expected_values:
+    VOLVO_THROTTLE_ABS_POS: 94.11765
+  response: 7E80462F411F0

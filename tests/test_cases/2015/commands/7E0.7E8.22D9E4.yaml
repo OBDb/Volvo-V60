@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22D9E4
+test_cases:
+- expected_values:
+    VOLVO_BOOST_P_DES: 105
+  response: 7E80562D9E4041A
+- expected_values:
+    VOLVO_BOOST_P_DES: 152
+  response: 7E80562D9E405F0

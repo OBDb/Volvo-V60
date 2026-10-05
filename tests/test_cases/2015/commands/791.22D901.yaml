@@ -1,0 +1,8 @@
+command_id: 791.22D901
+test_cases:
+- expected_values:
+    VOLVO_CHG_MS_CAN: 182
+  response: 73F0462D901B7
+- expected_values:
+    VOLVO_CHG_MS_CAN: 185
+  response: 73F0462D901BA

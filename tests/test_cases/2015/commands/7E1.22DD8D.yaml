@@ -1,0 +1,11 @@
+command_id: 7E1.22DD8D
+test_cases:
+- expected_values:
+    VOLVO_TQ: 21
+  response: 7E90562DD8D00D2
+- expected_values:
+    VOLVO_TQ: 153
+  response: 7E90562DD8D05FA
+- expected_values:
+    VOLVO_TQ: -21
+  response: 7E90562DD8DFF2E

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F423
+test_cases:
+- expected_values:
+    VOLVO_FUEL_P: 0
+  response: 7E80562F4230000
+- expected_values:
+    VOLVO_FUEL_P: 352100
+  response: 7E80562F4230DC1
+- expected_values:
+    VOLVO_FUEL_P: 1397500
+  response: 7E80562F4233697

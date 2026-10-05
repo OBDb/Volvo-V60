@@ -1,0 +1,8 @@
+command_id: 7E1.22DF08
+test_cases:
+- expected_values:
+    VOLVO_START_LOCK_START: 0
+  response: 7E90462DF0800
+- expected_values:
+    VOLVO_START_LOCK_START: 1
+  response: 7E90462DF08FF

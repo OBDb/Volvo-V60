@@ -1,0 +1,11 @@
+command_id: 720.2261D1
+test_cases:
+- expected_values:
+    VOLVO_DIM_FLI_1_2: 11.4
+  response: 728056261D10072
+- expected_values:
+    VOLVO_DIM_FLI_1_2: 13.2
+  response: 728056261D10084
+- expected_values:
+    VOLVO_DIM_FLI_1_2: 14.2
+  response: 728056261D1008E

@@ -1,0 +1,5 @@
+command_id: 756.222B21
+test_cases:
+- expected_values:
+    VOLVO_PARKING_BRAKE_CNT_DYNAMIC: 5
+  response: 75E07622B2100000005

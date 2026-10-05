@@ -1,0 +1,5 @@
+command_id: 7E1.22DD8A
+test_cases:
+- expected_values:
+    VOLVO_SOLENOID_S2_STAT: 0
+  response: 7E90462DD8A00

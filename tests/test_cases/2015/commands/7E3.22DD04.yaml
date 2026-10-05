@@ -1,0 +1,23 @@
+command_id: 7E3.22DD04
+test_cases:
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 20
+  response: 7280462DD043C
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 21
+  response: 7280462DD043D
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 22
+  response: 7280462DD043E
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 23
+  response: 7280462DD043F
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 20
+  response: 72E0462DD043C
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 21
+  response: 72E0462DD043D
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 23
+  response: 72E0462DD043F

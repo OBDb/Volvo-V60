@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22D91C
+test_cases:
+- expected_values:
+    VOLVO_M3_IAT_MAF: 2.925
+  response: 7E80562D91C0B6D
+- expected_values:
+    VOLVO_M3_IAT_MAF: 3.007
+  response: 7E80562D91C0BBF

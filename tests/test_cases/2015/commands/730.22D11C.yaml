@@ -1,0 +1,14 @@
+command_id: 730.22D11C
+test_cases:
+- expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 22
+  response: 7380462D11C3E
+- expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 24
+  response: 7380462D11C40
+- expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 26
+  response: 7380462D11C42
+- expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 30
+  response: 7380462D11C46
