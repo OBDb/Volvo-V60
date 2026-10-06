@@ -1,8 +1,17 @@
 command_id: 7E1.221E16
 test_cases:
 - expected_values:
+    VOLVO_ACT_GEAR_RAT: 0.13477
+  response: 7E905621E160228
+- expected_values:
     VOLVO_ACT_GEAR_RAT: 1.15283
   response: 7E905621E161272
+- expected_values:
+    VOLVO_ACT_GEAR_RAT: 1.5564
+  response: 7E905621E1618E7
+- expected_values:
+    VOLVO_ACT_GEAR_RAT: 1.55688
+  response: 7E905621E1618E9
 - expected_values:
     VOLVO_ACT_GEAR_RAT: 1.55786
   response: 7E905621E1618ED

@@ -10,6 +10,9 @@ test_cases:
     VOLVO_SERVO_CTRL_MODULE_T: 20
   response: 7380462D11C3C
 - expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 21
+  response: 7380462D11C3D
+- expected_values:
     VOLVO_SERVO_CTRL_MODULE_T: 22
   response: 7380462D11C3E
 - expected_values:

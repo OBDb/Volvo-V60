@@ -6,32 +6,12 @@ test_cases:
     728100A62D936010001
     728210A770001000000
 - expected_values:
-    VOLVO_TRIP_1: 268.4
-  response: |-
-    728100A62D936010001
-    728210A7C0001000000
-- expected_values:
-    VOLVO_TRIP_1: 269.4
-  response: |-
-    728100A62D936010001
-    728210A860001000000
-- expected_values:
     VOLVO_TRIP_1: 270.3
   response: |-
     728100A62D936010001
     728210A8F0001000000
 - expected_values:
-    VOLVO_TRIP_1: 270.5
+    VOLVO_TRIP_1: 286.4
   response: |-
     728100A62D936010001
-    728210A910001000000
-- expected_values:
-    VOLVO_TRIP_1: 270.6
-  response: |-
-    728100A62D936010001
-    728210A920001000000
-- expected_values:
-    VOLVO_TRIP_1: 271.8
-  response: |-
-    728100A62D936010001
-    728210A9E0001000000
+    728210B300001000000

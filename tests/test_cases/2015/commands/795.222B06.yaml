@@ -7,6 +7,12 @@ test_cases:
     VOLVO_FL_WHL_SPD_795: 1
   response: 76804622B0601
 - expected_values:
+    VOLVO_FL_WHL_SPD_795: 18
+  response: 76804622B0612
+- expected_values:
+    VOLVO_FL_WHL_SPD_795: 28
+  response: 76804622B061C
+- expected_values:
     VOLVO_FL_WHL_SPD_795: 29
   response: 76804622B061D
 - expected_values:
@@ -21,3 +27,6 @@ test_cases:
 - expected_values:
     VOLVO_FL_WHL_SPD_795: 41
   response: 76804622B0629
+- expected_values:
+    VOLVO_FL_WHL_SPD_795: 66
+  response: 76804622B0642

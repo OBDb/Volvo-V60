@@ -4,11 +4,11 @@ test_cases:
     VOLVO_MIS_EMISSION_RELATED: 1564
   response: 7E80562DA04061C
 - expected_values:
+    VOLVO_MIS_EMISSION_RELATED: 3054
+  response: 7E80562DA040BEE
+- expected_values:
     VOLVO_MIS_EMISSION_RELATED: 6915
   response: 7E80562DA041B03
-- expected_values:
-    VOLVO_MIS_EMISSION_RELATED: 7404
-  response: 7E80562DA041CEC
 - expected_values:
     VOLVO_MIS_EMISSION_RELATED: 11436
   response: 7E80562DA042CAC

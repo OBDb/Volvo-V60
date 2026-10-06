@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22D900
 test_cases:
 - expected_values:
-    VOLVO_AC_P_V2: 557.8
-  response: 7E80562D9000AE5
+    VOLVO_AC_P_V2: 478.8
+  response: 7E80562D900095A
 - expected_values:
-    VOLVO_AC_P_V2: 612
-  response: 7E80562D9000BF4
+    VOLVO_AC_P_V2: 562
+  response: 7E80562D9000AFA
 - expected_values:
     VOLVO_AC_P_V2: 616
   response: 7E80562D9000C08

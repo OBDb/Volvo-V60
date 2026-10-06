@@ -1,5 +1,8 @@
 command_id: 726.22EEA2
 test_cases:
 - expected_values:
+    VOLVO_V_POWER_SENSITIVE: 0
+  response: 72E0462EEA200
+- expected_values:
     VOLVO_V_POWER_SENSITIVE: 2
   response: 72E0462EEA202

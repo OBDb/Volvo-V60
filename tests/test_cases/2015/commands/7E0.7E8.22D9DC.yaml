@@ -4,8 +4,11 @@ test_cases:
     VOLVO_EOT_V2: 22.26
   response: 7E80562D9DC0B8A
 - expected_values:
-    VOLVO_EOT_V2: 32.16
-  response: 7E80562D9DC0BED
+    VOLVO_EOT_V2: 33.66
+  response: 7E80562D9DC0BFC
+- expected_values:
+    VOLVO_EOT_V2: 34.06
+  response: 7E80562D9DC0C00
 - expected_values:
     VOLVO_EOT_V2: 59.76
   response: 7E80562D9DC0D01

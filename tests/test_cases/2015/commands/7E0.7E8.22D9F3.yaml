@@ -4,5 +4,5 @@ test_cases:
     VOLVO_M3_DIFF_PRESS: 0
   response: 7E80562D9F30000
 - expected_values:
-    VOLVO_M3_DIFF_PRESS: 21
-  response: 7E80562D9F30015
+    VOLVO_M3_DIFF_PRESS: 65535
+  response: 7E80562D9F3FFFF

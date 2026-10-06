@@ -1,6 +1,16 @@
 command_id: '726.227151'
 test_cases:
 - expected_values:
+    VOLVO_DIPPED_BEAM: 4
+    VOLVO_HIGH_BEAM: 4
+    VOLVO_PARKING_LIGHTS: 12
+  response: 72E0762715104040C02
+- expected_values:
+    VOLVO_DIPPED_BEAM: 6
+    VOLVO_HIGH_BEAM: 4
+    VOLVO_PARKING_LIGHTS: 12
+  response: 72E0762715106040C02
+- expected_values:
     VOLVO_DIPPED_BEAM: 212
     VOLVO_HIGH_BEAM: 4
     VOLVO_PARKING_LIGHTS: 12

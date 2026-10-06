@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 125
-  response: 7E80562F41F007D
+    VOLVO_TIME_SINCE_ENG_START: 119
+  response: 7E80562F41F0077
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 232
-  response: 7E80562F41F00E8
+    VOLVO_TIME_SINCE_ENG_START: 244
+  response: 7E80562F41F00F4
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 259
-  response: 7E80562F41F0103
+    VOLVO_TIME_SINCE_ENG_START: 258
+  response: 7E80562F41F0102
 - expected_values:
     VOLVO_TIME_SINCE_ENG_START: 806
   response: 7E80562F41F0326

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLVO_FUEL_VOLUME_CTRL_VLV: 38.45
   response: 7E80562DAD50F05
+- expected_values:
+    VOLVO_FUEL_VOLUME_CTRL_VLV: 44.14
+  response: 7E80562DAD5113E

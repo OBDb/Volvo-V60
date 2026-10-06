@@ -13,5 +13,11 @@ test_cases:
     VOLVO_YAW_RATE_SIG: -3.8
   response: 76805622B0BFFED
 - expected_values:
+    VOLVO_YAW_RATE_SIG: -1
+  response: 76805622B0BFFFB
+- expected_values:
+    VOLVO_YAW_RATE_SIG: -0.6
+  response: 76805622B0BFFFD
+- expected_values:
     VOLVO_YAW_RATE_SIG: -0.2
   response: 76805622B0BFFFF

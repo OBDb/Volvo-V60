@@ -4,8 +4,8 @@ test_cases:
     VOLVO_EOP_V2: 92
   response: 7E80562EF4E0398
 - expected_values:
-    VOLVO_EOP_V2: 484.6
-  response: 7E80562EF4E12EE
+    VOLVO_EOP_V2: 563
+  response: 7E80562EF4E15FE
 - expected_values:
     VOLVO_EOP_V2: 640.2
   response: 7E80562EF4E1902

@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22D9EE
 test_cases:
 - expected_values:
-    VOLVO_FUEL_P_REGULATOR_VLV: 101
-  response: 7E80562D9EE0065
+    VOLVO_FUEL_P_REGULATOR_VLV: 80
+  response: 7E80562D9EE0050
 - expected_values:
     VOLVO_FUEL_P_REGULATOR_VLV: 509
   response: 7E80562D9EE01FD
+- expected_values:
+    VOLVO_FUEL_P_REGULATOR_VLV: 558
+  response: 7E80562D9EE022E
 - expected_values:
     VOLVO_FUEL_P_REGULATOR_VLV: 1071
   response: 7E80562D9EE042F
