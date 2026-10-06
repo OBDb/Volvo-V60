@@ -4,8 +4,17 @@ test_cases:
     VOLVO_TQ: 21
   response: 7E90562DD8D00D2
 - expected_values:
+    VOLVO_TQ: 62
+  response: 7E90562DD8D026C
+- expected_values:
+    VOLVO_TQ: 128
+  response: 7E90562DD8D0500
+- expected_values:
     VOLVO_TQ: 153
   response: 7E90562DD8D05FA
+- expected_values:
+    VOLVO_TQ: 169
+  response: 7E90562DD8D069A
 - expected_values:
     VOLVO_TQ: -21
   response: 7E90562DD8DFF2E

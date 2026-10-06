@@ -4,26 +4,11 @@ test_cases:
     VOLVO_EGR_VLV_POS_SENS: 1205
   response: 7E80562DAAD04B5
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 1752
-  response: 7E80562DAAD06D8
-- expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 2419
-  response: 7E80562DAAD0973
+    VOLVO_EGR_VLV_POS_SENS: 1792
+  response: 7E80562DAAD0700
 - expected_values:
     VOLVO_EGR_VLV_POS_SENS: 2540
   response: 7E80562DAAD09EC
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 2726
-  response: 7E80562DAAD0AA6
-- expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 2740
-  response: 7E80562DAAD0AB4
-- expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 3220
-  response: 7E80562DAAD0C94
-- expected_values:
     VOLVO_EGR_VLV_POS_SENS: 65205
   response: 7E80562DAADFEB5
-- expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 65232
-  response: 7E80562DAADFED0

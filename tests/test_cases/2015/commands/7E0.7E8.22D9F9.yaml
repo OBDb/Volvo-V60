@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.22D9F9
 test_cases:
 - expected_values:
-    VOLVO_DPF_T: 92.96
-  response: 7E80562D9F90E4D
+    VOLVO_DPF_T: 82.76
+  response: 7E80562D9F90DE7
 - expected_values:
-    VOLVO_DPF_T: 95.06
-  response: 7E80562D9F90E62
+    VOLVO_DPF_T: 84.86
+  response: 7E80562D9F90DFC
 - expected_values:
-    VOLVO_DPF_T: 97.06
-  response: 7E80562D9F90E76
-- expected_values:
-    VOLVO_DPF_T: 99.16
-  response: 7E80562D9F90E8B
-- expected_values:
-    VOLVO_DPF_T: 129.06
-  response: 7E80562D9F90FB6
-- expected_values:
-    VOLVO_DPF_T: 135.96
-  response: 7E80562D9F90FFB
+    VOLVO_DPF_T: 88.96
+  response: 7E80562D9F90E25
 - expected_values:
     VOLVO_DPF_T: 140.56
   response: 7E80562D9F91029
-- expected_values:
-    VOLVO_DPF_T: 149.66
-  response: 7E80562D9F91084

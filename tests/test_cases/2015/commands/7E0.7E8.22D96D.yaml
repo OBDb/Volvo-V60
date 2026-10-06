@@ -4,8 +4,8 @@ test_cases:
     VOLVO_EGR_VLV_CMD_POS_II: 0.13
   response: 7E80562D96D000D
 - expected_values:
-    VOLVO_EGR_VLV_CMD_POS_II: 30.03
-  response: 7E80562D96D0BBB
+    VOLVO_EGR_VLV_CMD_POS_II: 22.96
+  response: 7E80562D96D08F8
 - expected_values:
     VOLVO_EGR_VLV_CMD_POS_II: 33.37
   response: 7E80562D96D0D09

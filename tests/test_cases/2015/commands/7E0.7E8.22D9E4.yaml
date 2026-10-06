@@ -4,5 +4,8 @@ test_cases:
     VOLVO_BOOST_P_DES: 105
   response: 7E80562D9E4041A
 - expected_values:
+    VOLVO_BOOST_P_DES: 131
+  response: 7E80562D9E4051E
+- expected_values:
     VOLVO_BOOST_P_DES: 152
   response: 7E80562D9E405F0

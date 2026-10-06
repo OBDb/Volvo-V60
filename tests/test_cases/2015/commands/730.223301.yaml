@@ -7,5 +7,8 @@ test_cases:
     VOLVO_STEER_WHL_ANG: 4
   response: '7380462330101'
 - expected_values:
+    VOLVO_STEER_WHL_ANG: 32
+  response: '7380462330108'
+- expected_values:
     VOLVO_STEER_WHL_ANG: 36
   response: '7380462330109'

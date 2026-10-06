@@ -1,6 +1,9 @@
 command_id: 7E1.221E19
 test_cases:
 - expected_values:
+    VOLVO_EXPECTED_GEAR_RAT: 1.155
+  response: 7E905621E190483
+- expected_values:
     VOLVO_EXPECTED_GEAR_RAT: 1.556
   response: 7E905621E190614
 - expected_values:

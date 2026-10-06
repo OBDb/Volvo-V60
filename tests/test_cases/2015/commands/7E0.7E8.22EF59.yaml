@@ -7,8 +7,8 @@ test_cases:
     VOLVO_FUEL_PMP_LOW_P_SIDE: 40.94
   response: 7E80562EF590FFE
 - expected_values:
-    VOLVO_FUEL_PMP_LOW_P_SIDE: 44.01
-  response: 7E80562EF591131
+    VOLVO_FUEL_PMP_LOW_P_SIDE: 43.54
+  response: 7E80562EF591102
 - expected_values:
     VOLVO_FUEL_PMP_LOW_P_SIDE: 46.73
   response: 7E80562EF591241

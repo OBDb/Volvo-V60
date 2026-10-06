@@ -10,8 +10,17 @@ test_cases:
     VOLVO_SERVO_PMP_SPD: 1960
   response: 7380462413C62
 - expected_values:
+    VOLVO_SERVO_PMP_SPD: 2580
+  response: 7380462413C81
+- expected_values:
     VOLVO_SERVO_PMP_SPD: 2620
   response: 7380462413C83
+- expected_values:
+    VOLVO_SERVO_PMP_SPD: 2740
+  response: 7380462413C89
+- expected_values:
+    VOLVO_SERVO_PMP_SPD: 2800
+  response: 7380462413C8C
 - expected_values:
     VOLVO_SERVO_PMP_SPD: 2840
   response: 7380462413C8E

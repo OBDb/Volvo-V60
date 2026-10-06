@@ -7,5 +7,11 @@ test_cases:
     VOLVO_SLAVE_T: 721
   response: 7E905621E1B02D1
 - expected_values:
+    VOLVO_SLAVE_T: 906
+  response: 7E905621E1B038A
+- expected_values:
     VOLVO_SLAVE_T: 924
   response: 7E905621E1B039C
+- expected_values:
+    VOLVO_SLAVE_T: 1138
+  response: 7E905621E1B0472

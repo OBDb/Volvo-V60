@@ -4,6 +4,12 @@ test_cases:
     VOLVO_BAT_V_726: 14.6
   response: 72E0462402AAC
 - expected_values:
+    VOLVO_BAT_V_726: 14.65
+  response: 72E0462402AAD
+- expected_values:
+    VOLVO_BAT_V_726: 14.75
+  response: 72E0462402AAF
+- expected_values:
     VOLVO_BAT_V_726: 14.85
   response: 72E0462402AB1
 - expected_values:

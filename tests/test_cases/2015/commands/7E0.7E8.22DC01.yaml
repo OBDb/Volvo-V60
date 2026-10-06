@@ -4,8 +4,8 @@ test_cases:
     VOLVO_EGR_VLV_CMD_POS: 13
   response: 7E80562DC01000D
 - expected_values:
-    VOLVO_EGR_VLV_CMD_POS: 1762
-  response: 7E80562DC0106E2
+    VOLVO_EGR_VLV_CMD_POS: 2296
+  response: 7E80562DC0108F8
 - expected_values:
     VOLVO_EGR_VLV_CMD_POS: 7876
   response: 7E80562DC011EC4
