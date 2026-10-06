@@ -4,5 +4,8 @@ test_cases:
     VOLVO_DIST_EMPTY_MS_CAN: 143
   response: 7280562EEFD008F
 - expected_values:
+    VOLVO_DIST_EMPTY_MS_CAN: 148
+  response: 7280562EEFD0094
+- expected_values:
     VOLVO_DIST_EMPTY_MS_CAN: 153
   response: 7280562EEFD0099

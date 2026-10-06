@@ -4,29 +4,8 @@ test_cases:
     VOLVO_MIS_CATALYTIC_DAMAGE: 0
   response: 7E80562DA030000
 - expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 3117
-  response: 7E80562DA030C2D
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 3337
-  response: 7E80562DA030D09
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 3447
-  response: 7E80562DA030D77
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 3483
-  response: 7E80562DA030D9B
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 3521
-  response: 7E80562DA030DC1
-- expected_values:
     VOLVO_MIS_CATALYTIC_DAMAGE: 3556
   response: 7E80562DA030DE4
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 5091
-  response: 7E80562DA0313E3
-- expected_values:
-    VOLVO_MIS_CATALYTIC_DAMAGE: 6225
-  response: 7E80562DA031851
 - expected_values:
     VOLVO_MIS_CATALYTIC_DAMAGE: 12841
   response: 7E80562DA033229

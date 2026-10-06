@@ -4,5 +4,11 @@ test_cases:
     VOLVO_M3_APP_ECM: 8.23529
   response: 7E80462F44915
 - expected_values:
+    VOLVO_M3_APP_ECM: 13.33333
+  response: 7E80462F44922
+- expected_values:
+    VOLVO_M3_APP_ECM: 14.90196
+  response: 7E80462F44926
+- expected_values:
     VOLVO_M3_APP_ECM: 18.03922
   response: 7E80462F4492E

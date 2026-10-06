@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     VOLVO_SERVO_PMP_ENG_POWER: 12
   response: '7380462413918'
+- expected_values:
+    VOLVO_SERVO_PMP_ENG_POWER: 13.5
+  response: 738046241391B
+- expected_values:
+    VOLVO_SERVO_PMP_ENG_POWER: 16
+  response: '7380462413920'

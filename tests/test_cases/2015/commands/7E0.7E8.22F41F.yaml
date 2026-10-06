@@ -7,8 +7,8 @@ test_cases:
     VOLVO_TIME_SINCE_ENG_START: 232
   response: 7E80562F41F00E8
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 268
-  response: 7E80562F41F010C
+    VOLVO_TIME_SINCE_ENG_START: 259
+  response: 7E80562F41F0103
 - expected_values:
     VOLVO_TIME_SINCE_ENG_START: 806
   response: 7E80562F41F0326

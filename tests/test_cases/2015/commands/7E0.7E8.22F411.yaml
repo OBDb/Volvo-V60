@@ -13,6 +13,9 @@ test_cases:
     VOLVO_THROTTLE_ABS_POS: 90.19608
   response: 7E80462F411E6
 - expected_values:
+    VOLVO_THROTTLE_ABS_POS: 90.58824
+  response: 7E80462F411E7
+- expected_values:
     VOLVO_THROTTLE_ABS_POS: 90.98039
   response: 7E80462F411E8
 - expected_values:

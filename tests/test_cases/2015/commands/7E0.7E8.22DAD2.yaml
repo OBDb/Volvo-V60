@@ -4,26 +4,11 @@ test_cases:
     VOLVO_EGR_COOLER_BYPASS: 90.43
   response: 7E80562DAD22353
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 90.56
-  response: 7E80562DAD22360
+    VOLVO_EGR_COOLER_BYPASS: 92.05
+  response: 7E80562DAD223F5
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 90.67
-  response: 7E80562DAD2236B
-- expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 90.8
-  response: 7E80562DAD22378
-- expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 90.92
-  response: 7E80562DAD22384
-- expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 91.17
-  response: 7E80562DAD2239D
-- expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 91.79
-  response: 7E80562DAD223DB
-- expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 92.55
-  response: 7E80562DAD22427
+    VOLVO_EGR_COOLER_BYPASS: 92.17
+  response: 7E80562DAD22401
 - expected_values:
     VOLVO_EGR_COOLER_BYPASS: 100
   response: 7E80562DAD22710

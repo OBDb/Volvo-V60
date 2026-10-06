@@ -4,8 +4,17 @@ test_cases:
     VOLVO_LINEAR_P_SOLENOID_SLT: 829
   response: 7E905621E40033D
 - expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 927
+  response: 7E905621E40039F
+- expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLT: 955
   response: 7E905621E4003BB
 - expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 958
+  response: 7E905621E4003BE
+- expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLT: 986
   response: 7E905621E4003DA
+- expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 991
+  response: 7E905621E4003DF

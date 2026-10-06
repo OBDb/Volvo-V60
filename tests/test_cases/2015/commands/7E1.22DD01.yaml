@@ -4,8 +4,8 @@ test_cases:
     VOLVO_ODO_TCM: 268430
   response: 7280662DD0104188E
 - expected_values:
-    VOLVO_ODO_TCM: 268432
-  response: 7280662DD01041890
+    VOLVO_ODO_TCM: 268434
+  response: 7280662DD01041892
 - expected_values:
     VOLVO_ODO_TCM: 268430
   response: 7E90662DD0104188E

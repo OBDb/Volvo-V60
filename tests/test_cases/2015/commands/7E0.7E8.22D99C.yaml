@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.22D99C
 test_cases:
 - expected_values:
-    VOLVO_FUEL_T: 20.7
-  response: 7E80562D99C0B79
-- expected_values:
-    VOLVO_FUEL_T: 21.1
-  response: 7E80562D99C0B7D
-- expected_values:
-    VOLVO_FUEL_T: 21.3
-  response: 7E80562D99C0B7F
-- expected_values:
-    VOLVO_FUEL_T: 21.5
-  response: 7E80562D99C0B81
-- expected_values:
-    VOLVO_FUEL_T: 23.8
-  response: 7E80562D99C0B98
-- expected_values:
-    VOLVO_FUEL_T: 24.3
-  response: 7E80562D99C0B9D
-- expected_values:
-    VOLVO_FUEL_T: 24.4
-  response: 7E80562D99C0B9E
-- expected_values:
-    VOLVO_FUEL_T: 24.5
-  response: 7E80562D99C0B9F
+    VOLVO_FUEL_T: 15.6
+  response: 7E80562D99C0B46
 - expected_values:
     VOLVO_FUEL_T: 24.8
   response: 7E80562D99C0BA2

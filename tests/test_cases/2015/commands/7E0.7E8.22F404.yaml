@@ -4,23 +4,5 @@ test_cases:
     VOLVO_CALC_LOAD: 0
   response: 7E80462F40400
 - expected_values:
-    VOLVO_CALC_LOAD: 8.23529
-  response: 7E80462F40415
-- expected_values:
-    VOLVO_CALC_LOAD: 23.92157
-  response: 7E80462F4043D
-- expected_values:
-    VOLVO_CALC_LOAD: 24.70588
-  response: 7E80462F4043F
-- expected_values:
-    VOLVO_CALC_LOAD: 27.84314
-  response: 7E80462F40447
-- expected_values:
-    VOLVO_CALC_LOAD: 40.78431
-  response: 7E80462F40468
-- expected_values:
-    VOLVO_CALC_LOAD: 43.52941
-  response: 7E80462F4046F
-- expected_values:
-    VOLVO_CALC_LOAD: 63.92157
-  response: 7E80462F404A3
+    VOLVO_CALC_LOAD: 64.31373
+  response: 7E80462F404A4

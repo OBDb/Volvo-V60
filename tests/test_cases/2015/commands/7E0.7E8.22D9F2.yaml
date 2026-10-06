@@ -18,3 +18,15 @@ test_cases:
 - expected_values:
     VOLVO_DPF_SOOT: 21.59
   response: 7E80562D9F2086F
+- expected_values:
+    VOLVO_DPF_SOOT: 21.65
+  response: 7E80562D9F20875
+- expected_values:
+    VOLVO_DPF_SOOT: 21.66
+  response: 7E80562D9F20876
+- expected_values:
+    VOLVO_DPF_SOOT: 21.67
+  response: 7E80562D9F20877
+- expected_values:
+    VOLVO_DPF_SOOT: 21.68
+  response: 7E80562D9F20878

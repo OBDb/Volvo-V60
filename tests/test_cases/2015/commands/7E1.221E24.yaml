@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLVO_FIXED_LOCK_UP: 1
   response: 7E904621E2401
+- expected_values:
+    VOLVO_FIXED_LOCK_UP: 3
+  response: 7E904621E2403

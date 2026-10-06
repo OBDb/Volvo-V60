@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     VOLVO_MILEAGE_ODO: 268432
   response: 7E80662DD01041890
+- expected_values:
+    VOLVO_MILEAGE_ODO: 268433
+  response: 7E80662DD01041891
+- expected_values:
+    VOLVO_MILEAGE_ODO: 268434
+  response: 7E80662DD01041892
