@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLVO_GEAR_7E1: 4
   response: 7E90562DD810004
+- expected_values:
+    VOLVO_GEAR_7E1: 5
+  response: 7E90562DD810005

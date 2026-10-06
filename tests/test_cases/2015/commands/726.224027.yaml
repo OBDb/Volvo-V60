@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLVO_BAT_OPERATION_TIME: 973
   response: 72E0562402703CD
+- expected_values:
+    VOLVO_BAT_OPERATION_TIME: 974
+  response: 72E0562402703CE

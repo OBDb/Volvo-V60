@@ -2,6 +2,9 @@ command_id: 7E0.7E8.22D94F
 test_cases:
 - expected_values:
     VOLVO_SYSTEM_RELAY: 0
+  response: 7E80562D94F0050
+- expected_values:
+    VOLVO_SYSTEM_RELAY: 0
   response: 7E80562D94F0090
 - expected_values:
     VOLVO_SYSTEM_RELAY: 0
@@ -9,3 +12,6 @@ test_cases:
 - expected_values:
     VOLVO_SYSTEM_RELAY: 0
   response: 7E80562D94F00D1
+- expected_values:
+    VOLVO_SYSTEM_RELAY: 0
+  response: 7E80562D94F00F5

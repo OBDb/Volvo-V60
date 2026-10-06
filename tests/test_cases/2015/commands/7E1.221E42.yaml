@@ -4,8 +4,14 @@ test_cases:
     VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 100
   response: 7E905621E420064
 - expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 298
+  response: 7E905621E42012A
+- expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 583
   response: 7E905621E420247
+- expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 588
+  response: 7E905621E42024C
 - expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 593
   response: 7E905621E420251
@@ -15,6 +21,9 @@ test_cases:
 - expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 597
   response: 7E905621E420255
+- expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 599
+  response: 7E905621E420257
 - expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLC1_REQ: 602
   response: 7E905621E42025A

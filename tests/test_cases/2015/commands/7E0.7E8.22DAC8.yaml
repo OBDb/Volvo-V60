@@ -4,5 +4,5 @@ test_cases:
     VOLVO_DPF_P: 0
   response: 7E80562DAC80000
 - expected_values:
-    VOLVO_DPF_P: 26
-  response: 7E80562DAC8001A
+    VOLVO_DPF_P: -1
+  response: 7E80562DAC8FFFF

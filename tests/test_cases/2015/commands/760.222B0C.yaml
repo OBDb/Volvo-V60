@@ -4,14 +4,23 @@ test_cases:
     VOLVO_LATERAL_ANG: 1
   response: 76805622B0C0001
 - expected_values:
+    VOLVO_LATERAL_ANG: 2
+  response: 76805622B0C0002
+- expected_values:
     VOLVO_LATERAL_ANG: 4
   response: 76805622B0C0004
 - expected_values:
     VOLVO_LATERAL_ANG: 5
   response: 76805622B0C0005
 - expected_values:
+    VOLVO_LATERAL_ANG: 6
+  response: 76805622B0C0006
+- expected_values:
     VOLVO_LATERAL_ANG: -30
   response: 76805622B0CFFE2
+- expected_values:
+    VOLVO_LATERAL_ANG: -11
+  response: 76805622B0CFFF5
 - expected_values:
     VOLVO_LATERAL_ANG: -3
   response: 76805622B0CFFFD

@@ -1,6 +1,12 @@
 command_id: 7E1.221E40
 test_cases:
 - expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 0
+  response: 7E905621E400000
+- expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 637
+  response: 7E905621E40027D
+- expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLT: 829
   response: 7E905621E40033D
 - expected_values:
@@ -18,3 +24,6 @@ test_cases:
 - expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLT: 991
   response: 7E905621E4003DF
+- expected_values:
+    VOLVO_LINEAR_P_SOLENOID_SLT: 997
+  response: 7E905621E4003E5

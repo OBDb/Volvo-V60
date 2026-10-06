@@ -19,5 +19,14 @@ test_cases:
     VOLVO_M3_IAT_BUTTERFLY: 22
   response: 7E80462F40F3E
 - expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 24
+  response: 7E80462F40F40
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 25
+  response: 7E80462F40F41
+- expected_values:
+    VOLVO_M3_IAT_BUTTERFLY: 26
+  response: 7E80462F40F42
+- expected_values:
     VOLVO_M3_IAT_BUTTERFLY: 27
   response: 7E80462F40F43

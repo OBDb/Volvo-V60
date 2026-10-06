@@ -4,6 +4,9 @@ test_cases:
     VOLVO_LOCK_UP_SOLENOID_SLU: 200
   response: 7E905621E4100C8
 - expected_values:
+    VOLVO_LOCK_UP_SOLENOID_SLU: 472
+  response: 7E905621E4101D8
+- expected_values:
     VOLVO_LOCK_UP_SOLENOID_SLU: 488
   response: 7E905621E4101E8
 - expected_values:

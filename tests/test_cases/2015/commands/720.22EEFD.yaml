@@ -1,6 +1,9 @@
 command_id: 720.22EEFD
 test_cases:
 - expected_values:
+    VOLVO_DIST_EMPTY_MS_CAN: 138
+  response: 7280562EEFD008A
+- expected_values:
     VOLVO_DIST_EMPTY_MS_CAN: 143
   response: 7280562EEFD008F
 - expected_values:
