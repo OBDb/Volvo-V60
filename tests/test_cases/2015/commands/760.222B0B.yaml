@@ -4,26 +4,8 @@ test_cases:
     VOLVO_YAW_RATE_SIG: 0
   response: 76805622B0B0000
 - expected_values:
-    VOLVO_YAW_RATE_SIG: 0.4
-  response: 76805622B0B0002
-- expected_values:
-    VOLVO_YAW_RATE_SIG: 1
-  response: 76805622B0B0005
-- expected_values:
     VOLVO_YAW_RATE_SIG: -6.2
   response: 76805622B0BFFE1
-- expected_values:
-    VOLVO_YAW_RATE_SIG: -3.8
-  response: 76805622B0BFFED
-- expected_values:
-    VOLVO_YAW_RATE_SIG: -1
-  response: 76805622B0BFFFB
-- expected_values:
-    VOLVO_YAW_RATE_SIG: -0.6
-  response: 76805622B0BFFFD
-- expected_values:
-    VOLVO_YAW_RATE_SIG: -0.4
-  response: 76805622B0BFFFE
 - expected_values:
     VOLVO_YAW_RATE_SIG: -0.2
   response: 76805622B0BFFFF

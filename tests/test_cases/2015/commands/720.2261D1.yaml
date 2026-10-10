@@ -4,5 +4,5 @@ test_cases:
     VOLVO_DIM_FLI_1_2: 5.8
   response: 728056261D1003A
 - expected_values:
-    VOLVO_DIM_FLI_1_2: 14.2
-  response: 728056261D1008E
+    VOLVO_DIM_FLI_1_2: 45
+  response: 728056261D101C2

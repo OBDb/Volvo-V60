@@ -4,8 +4,8 @@ test_cases:
     VOLVO_AIR_FLOW_CYCLE_MG_S: 0
   response: 7E80562D9160000
 - expected_values:
-    VOLVO_AIR_FLOW_CYCLE_MG_S: 405.9
-  response: 7E80562D9160FDB
+    VOLVO_AIR_FLOW_CYCLE_MG_S: 406
+  response: 7E80562D9160FDC
 - expected_values:
-    VOLVO_AIR_FLOW_CYCLE_MG_S: 574.3
-  response: 7E80562D916166F
+    VOLVO_AIR_FLOW_CYCLE_MG_S: 938.8
+  response: 7E80562D91624AC

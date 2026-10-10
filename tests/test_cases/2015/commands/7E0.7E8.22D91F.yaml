@@ -7,5 +7,5 @@ test_cases:
     VOLVO_AIR_MASS_DES: 409.6
   response: 7E80562D91F1000
 - expected_values:
-    VOLVO_AIR_MASS_DES: 569.8
-  response: 7E80562D91F1642
+    VOLVO_AIR_MASS_DES: 988.9
+  response: 7E80562D91F26A1

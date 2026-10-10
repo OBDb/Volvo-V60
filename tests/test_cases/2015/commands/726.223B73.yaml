@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     VOLVO_REAR_AXLE_SENS: 2.65
   response: 72E04623B736A
+- expected_values:
+    VOLVO_REAR_AXLE_SENS: 2.75
+  response: 72E04623B736E

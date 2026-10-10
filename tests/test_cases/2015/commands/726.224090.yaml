@@ -7,5 +7,5 @@ test_cases:
     VOLVO_BAT_CHG_AMPS: -0.8875
   response: 72E056240901FED
 - expected_values:
-    VOLVO_BAT_CHG_AMPS: 1.175
-  response: 72E05624090200E
+    VOLVO_BAT_CHG_AMPS: 0.925
+  response: 72E05624090200A

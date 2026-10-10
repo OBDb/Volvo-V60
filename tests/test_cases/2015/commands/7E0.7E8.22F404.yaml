@@ -4,5 +4,5 @@ test_cases:
     VOLVO_CALC_LOAD: 0
   response: 7E80462F40400
 - expected_values:
-    VOLVO_CALC_LOAD: 64.31373
-  response: 7E80462F404A4
+    VOLVO_CALC_LOAD: 66.27451
+  response: 7E80462F404A9
