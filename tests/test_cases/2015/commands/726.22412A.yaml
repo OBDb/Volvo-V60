@@ -4,11 +4,8 @@ test_cases:
     VOLVO_TWILIGHT_SENS: 425
   response: 72E0562412A01A9
 - expected_values:
-    VOLVO_TWILIGHT_SENS: 582
-  response: 72E0562412A0246
+    VOLVO_TWILIGHT_SENS: 732
+  response: 72E0562412A02DC
 - expected_values:
-    VOLVO_TWILIGHT_SENS: 901
-  response: 72E0562412A0385
-- expected_values:
-    VOLVO_TWILIGHT_SENS: 980
-  response: 72E0562412A03D4
+    VOLVO_TWILIGHT_SENS: 804
+  response: 72E0562412A0324

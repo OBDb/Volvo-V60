@@ -4,6 +4,15 @@ test_cases:
     VOLVO_TURBO_CTRL_VLV: 0
   response: 7E80562DC000000
 - expected_values:
+    VOLVO_TURBO_CTRL_VLV: 99.81687
+  response: 7E80562DC001FF0
+- expected_values:
+    VOLVO_TURBO_CTRL_VLV: 99.86571
+  response: 7E80562DC001FF4
+- expected_values:
+    VOLVO_TURBO_CTRL_VLV: 99.87791
+  response: 7E80562DC001FF5
+- expected_values:
     VOLVO_TURBO_CTRL_VLV: 99.90233
   response: 7E80562DC001FF7
 - expected_values:

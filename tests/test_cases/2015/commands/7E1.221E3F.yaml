@@ -4,5 +4,5 @@ test_cases:
     VOLVO_ATF_T_7E1: 6
   response: 7E905621E3F0018
 - expected_values:
-    VOLVO_ATF_T_7E1: 18.25
-  response: 7E905621E3F0049
+    VOLVO_ATF_T_7E1: 19.25
+  response: 7E905621E3F004D

@@ -4,29 +4,5 @@ test_cases:
     VOLVO_DIM_FLI_DAMPED: 6
   response: 7280562EE11001E
 - expected_values:
-    VOLVO_DIM_FLI_DAMPED: 6.2
-  response: 7280562EE11001F
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 6.4
-  response: 7280562EE110020
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 10.2
-  response: 7280562EE110033
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 10.4
-  response: 7280562EE110034
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 10.8
-  response: 7280562EE110036
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 11
-  response: 7280562EE110037
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 11.2
-  response: 7280562EE110038
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 11.4
-  response: 7280562EE110039
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 11.6
-  response: 7280562EE11003A
+    VOLVO_DIM_FLI_DAMPED: 45
+  response: 7280562EE1100E1

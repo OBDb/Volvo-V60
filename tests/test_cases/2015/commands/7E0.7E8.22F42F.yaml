@@ -4,5 +4,5 @@ test_cases:
     VOLVO_FLI_INPUT: 13.33333
   response: 7E80462F42F22
 - expected_values:
-    VOLVO_FLI_INPUT: 26.27451
-  response: 7E80462F42F43
+    VOLVO_FLI_INPUT: 99.60784
+  response: 7E80462F42FFE

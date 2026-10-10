@@ -7,5 +7,5 @@ test_cases:
     VOLVO_T_CONV: 65302
   response: 7E905621E14FF16
 - expected_values:
-    VOLVO_T_CONV: 65530
-  response: 7E905621E14FFFA
+    VOLVO_T_CONV: 65534
+  response: 7E905621E14FFFE

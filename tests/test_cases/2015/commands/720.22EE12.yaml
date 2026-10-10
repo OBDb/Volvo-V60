@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     VOLVO_FLI_DAMPED: 11.8
   response: 7280562EE12003B
+- expected_values:
+    VOLVO_FLI_DAMPED: 45
+  response: 7280562EE1200E1

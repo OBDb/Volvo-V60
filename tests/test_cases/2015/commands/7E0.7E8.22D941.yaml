@@ -10,5 +10,5 @@ test_cases:
     VOLVO_BOOST_P: 102.8
   response: 7E80562D9410404
 - expected_values:
-    VOLVO_BOOST_P: 131
-  response: 7E80562D941051E
+    VOLVO_BOOST_P: 235.4
+  response: 7E80562D9410932

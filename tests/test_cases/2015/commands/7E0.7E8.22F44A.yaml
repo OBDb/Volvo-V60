@@ -4,5 +4,5 @@ test_cases:
     VOLVO_M3_APP_CAN: 0
   response: 7E80462F44A00
 - expected_values:
-    VOLVO_M3_APP_CAN: 19.60784
-  response: 7E80462F44A32
+    VOLVO_M3_APP_CAN: 20.78431
+  response: 7E80462F44A35

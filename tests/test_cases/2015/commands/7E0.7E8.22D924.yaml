@@ -4,8 +4,8 @@ test_cases:
     VOLVO_ALTERNATOR_AMPS: 0
   response: 7E80562D9240000
 - expected_values:
-    VOLVO_ALTERNATOR_AMPS: 7.53
-  response: 7E80562D92402F1
+    VOLVO_ALTERNATOR_AMPS: 5.08
+  response: 7E80562D92401FC
 - expected_values:
     VOLVO_ALTERNATOR_AMPS: 8.47
   response: 7E80562D924034F

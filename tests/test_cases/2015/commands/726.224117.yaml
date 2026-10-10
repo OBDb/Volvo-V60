@@ -1,8 +1,11 @@
 command_id: '726.224117'
 test_cases:
 - expected_values:
+    VOLVO_FLI_SENS: 1.07532
+  response: 72E0562411700DC
+- expected_values:
+    VOLVO_FLI_SENS: 1.08021
+  response: 72E0562411700DD
+- expected_values:
     VOLVO_FLI_SENS: 2.50257
   response: '72E056241170200'
-- expected_values:
-    VOLVO_FLI_SENS: 3.43125
-  response: 72E0562411702BE
