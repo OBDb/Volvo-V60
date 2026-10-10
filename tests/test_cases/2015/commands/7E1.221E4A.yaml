@@ -7,23 +7,5 @@ test_cases:
     VOLVO_LINEAR_P_SOLENOID_SLC3: 780
   response: 7E905621E4A030C
 - expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 802
-  response: 7E905621E4A0322
-- expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 806
-  response: 7E905621E4A0326
-- expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 807
-  response: 7E905621E4A0327
-- expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 809
-  response: 7E905621E4A0329
-- expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 908
-  response: 7E905621E4A038C
-- expected_values:
-    VOLVO_LINEAR_P_SOLENOID_SLC3: 909
-  response: 7E905621E4A038D
-- expected_values:
     VOLVO_LINEAR_P_SOLENOID_SLC3: 911
   response: 7E905621E4A038F

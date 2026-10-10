@@ -1,6 +1,9 @@
 command_id: 726.22411D
 test_cases:
 - expected_values:
+    VOLVO_ALTERNATOR_CHG_V_REQ: 10.6
+  response: 72E0462411D6A
+- expected_values:
     VOLVO_ALTERNATOR_CHG_V_REQ: 14.9
   response: 72E0462411D95
 - expected_values:

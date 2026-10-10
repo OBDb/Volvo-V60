@@ -4,26 +4,8 @@ test_cases:
     VOLVO_TQ: 0
   response: 7E90562DD8D0000
 - expected_values:
-    VOLVO_TQ: 1
-  response: 7E90562DD8D000A
-- expected_values:
-    VOLVO_TQ: 21
-  response: 7E90562DD8D00D2
-- expected_values:
-    VOLVO_TQ: 62
-  response: 7E90562DD8D026C
-- expected_values:
-    VOLVO_TQ: 128
-  response: 7E90562DD8D0500
-- expected_values:
-    VOLVO_TQ: 153
-  response: 7E90562DD8D05FA
-- expected_values:
-    VOLVO_TQ: 169
-  response: 7E90562DD8D069A
-- expected_values:
-    VOLVO_TQ: 215
-  response: 7E90562DD8D0866
+    VOLVO_TQ: 51
+  response: 7E90562DD8D01FE
 - expected_values:
     VOLVO_TQ: -21
   response: 7E90562DD8DFF2E

@@ -4,11 +4,11 @@ test_cases:
     VOLVO_TIME_SINCE_ENG_START: 119
   response: 7E80562F41F0077
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 244
-  response: 7E80562F41F00F4
-- expected_values:
     VOLVO_TIME_SINCE_ENG_START: 258
   response: 7E80562F41F0102
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 806
-  response: 7E80562F41F0326
+    VOLVO_TIME_SINCE_ENG_START: 5621
+  response: 7E80562F41F15F5
+- expected_values:
+    VOLVO_TIME_SINCE_ENG_START: 5651
+  response: 7E80562F41F1613

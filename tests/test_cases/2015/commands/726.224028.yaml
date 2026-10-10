@@ -7,6 +7,9 @@ test_cases:
     VOLVO_BAT_ST_CHG_726: 78
   response: 72E046240284E
 - expected_values:
+    VOLVO_BAT_ST_CHG_726: 80
+  response: '72E0462402850'
+- expected_values:
     VOLVO_BAT_ST_CHG_726: 81
   response: '72E0462402851'
 - expected_values:

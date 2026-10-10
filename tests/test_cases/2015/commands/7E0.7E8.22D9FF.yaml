@@ -4,11 +4,11 @@ test_cases:
     VOLVO_FUEL_P_NOMINAL: 300000
   response: 7E80562D9FF0BB8
 - expected_values:
-    VOLVO_FUEL_P_NOMINAL: 487000
-  response: 7E80562D9FF1306
-- expected_values:
     VOLVO_FUEL_P_NOMINAL: 741900
   response: 7E80562D9FF1CFB
+- expected_values:
+    VOLVO_FUEL_P_NOMINAL: 1152400
+  response: 7E80562D9FF2D04
 - expected_values:
     VOLVO_FUEL_P_NOMINAL: 1271100
   response: 7E80562D9FF31A7

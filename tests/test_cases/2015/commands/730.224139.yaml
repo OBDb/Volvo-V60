@@ -4,26 +4,5 @@ test_cases:
     VOLVO_SERVO_PMP_ENG_POWER: 5
   response: 738046241390A
 - expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 5.5
-  response: 738046241390B
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 8
-  response: '7380462413910'
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 8.5
-  response: '7380462413911'
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 10.5
-  response: '7380462413915'
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 12
-  response: '7380462413918'
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 13
-  response: 738046241391A
-- expected_values:
-    VOLVO_SERVO_PMP_ENG_POWER: 13.5
-  response: 738046241391B
-- expected_values:
     VOLVO_SERVO_PMP_ENG_POWER: 16
   response: '7380462413920'

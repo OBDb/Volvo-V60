@@ -4,8 +4,8 @@ test_cases:
     VOLVO_STEER_ANG_ACT: 728.1
   response: 768056233021C71
 - expected_values:
-    VOLVO_STEER_ANG_ACT: 774.7
-  response: '768056233021E43'
+    VOLVO_STEER_ANG_ACT: 769.4
+  response: 768056233021E0E
 - expected_values:
     VOLVO_STEER_ANG_ACT: 1168.6
   response: 768056233022DA6

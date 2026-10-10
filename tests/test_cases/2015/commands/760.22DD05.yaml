@@ -1,6 +1,15 @@
 command_id: 760.22DD05
 test_cases:
 - expected_values:
+    VOLVO_OUTDOOR_T_BCM: 6
+  response: 7680462DD052E
+- expected_values:
+    VOLVO_OUTDOOR_T_BCM: 7
+  response: 7680462DD052F
+- expected_values:
+    VOLVO_OUTDOOR_T_BCM: 12
+  response: 7680462DD0534
+- expected_values:
     VOLVO_OUTDOOR_T_BCM: 13
   response: 7680462DD0535
 - expected_values:

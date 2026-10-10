@@ -4,5 +4,5 @@ test_cases:
     VOLVO_FR_WHL_SPD_795: 0
   response: 76804622B0700
 - expected_values:
-    VOLVO_FR_WHL_SPD_795: 65
-  response: 76804622B0741
+    VOLVO_FR_WHL_SPD_795: 88
+  response: 76804622B0758

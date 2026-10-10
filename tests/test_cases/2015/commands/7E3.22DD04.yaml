@@ -4,8 +4,8 @@ test_cases:
     VOLVO_CAR_T_MS_CAN_7E3: 15
   response: 7280462DD0437
 - expected_values:
-    VOLVO_CAR_T_MS_CAN_7E3: 23
-  response: 7280462DD043F
+    VOLVO_CAR_T_MS_CAN_7E3: 26
+  response: 7280462DD0442
 - expected_values:
     VOLVO_CAR_T_MS_CAN_7E3: 15
   response: 72E0462DD0437

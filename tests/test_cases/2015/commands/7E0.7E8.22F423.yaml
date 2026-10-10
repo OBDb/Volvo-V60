@@ -4,8 +4,8 @@ test_cases:
     VOLVO_FUEL_P: 0
   response: 7E80562F4230000
 - expected_values:
-    VOLVO_FUEL_P: 406800
-  response: 7E80562F4230FE4
+    VOLVO_FUEL_P: 355600
+  response: 7E80562F4230DE4
 - expected_values:
     VOLVO_FUEL_P: 1397500
   response: 7E80562F4233697

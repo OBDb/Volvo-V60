@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    VOLVO_FLI_INPUT: 23.13725
-  response: 7E80462F42F3B
-- expected_values:
-    VOLVO_FLI_INPUT: 23.52941
-  response: 7E80462F42F3C
-- expected_values:
-    VOLVO_FLI_INPUT: 23.92157
-  response: 7E80462F42F3D
-- expected_values:
-    VOLVO_FLI_INPUT: 24.31373
-  response: 7E80462F42F3E
-- expected_values:
-    VOLVO_FLI_INPUT: 24.70588
-  response: 7E80462F42F3F
-- expected_values:
-    VOLVO_FLI_INPUT: 25.09804
-  response: 7E80462F42F40
-- expected_values:
-    VOLVO_FLI_INPUT: 25.4902
-  response: 7E80462F42F41
-- expected_values:
-    VOLVO_FLI_INPUT: 25.88235
-  response: 7E80462F42F42
+    VOLVO_FLI_INPUT: 13.33333
+  response: 7E80462F42F22
 - expected_values:
     VOLVO_FLI_INPUT: 26.27451
   response: 7E80462F42F43

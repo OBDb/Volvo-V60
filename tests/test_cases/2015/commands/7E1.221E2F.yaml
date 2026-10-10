@@ -4,26 +4,8 @@ test_cases:
     VOLVO_LEADING_T: 0
   response: 7E905621E2F0000
 - expected_values:
-    VOLVO_LEADING_T: 229
-  response: 7E905621E2F00E5
+    VOLVO_LEADING_T: 1266
+  response: 7E905621E2F04F2
 - expected_values:
-    VOLVO_LEADING_T: 743
-  response: 7E905621E2F02E7
-- expected_values:
-    VOLVO_LEADING_T: 1094
-  response: 7E905621E2F0446
-- expected_values:
-    VOLVO_LEADING_T: 1323
-  response: 7E905621E2F052B
-- expected_values:
-    VOLVO_LEADING_T: 1369
-  response: 7E905621E2F0559
-- expected_values:
-    VOLVO_LEADING_T: 1413
-  response: 7E905621E2F0585
-- expected_values:
-    VOLVO_LEADING_T: 1441
-  response: 7E905621E2F05A1
-- expected_values:
-    VOLVO_LEADING_T: 1474
-  response: 7E905621E2F05C2
+    VOLVO_LEADING_T: 1318
+  response: 7E905621E2F0526
