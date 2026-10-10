@@ -22,5 +22,8 @@ test_cases:
     VOLVO_SERVO_CTRL_MODULE_T: 26
   response: 7380462D11C42
 - expected_values:
+    VOLVO_SERVO_CTRL_MODULE_T: 28
+  response: 7380462D11C44
+- expected_values:
     VOLVO_SERVO_CTRL_MODULE_T: 30
   response: 7380462D11C46

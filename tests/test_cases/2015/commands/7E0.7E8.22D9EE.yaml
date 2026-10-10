@@ -7,8 +7,5 @@ test_cases:
     VOLVO_FUEL_P_REGULATOR_VLV: 509
   response: 7E80562D9EE01FD
 - expected_values:
-    VOLVO_FUEL_P_REGULATOR_VLV: 558
-  response: 7E80562D9EE022E
-- expected_values:
-    VOLVO_FUEL_P_REGULATOR_VLV: 1071
-  response: 7E80562D9EE042F
+    VOLVO_FUEL_P_REGULATOR_VLV: 1323
+  response: 7E80562D9EE052B

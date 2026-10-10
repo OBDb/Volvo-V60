@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLVO_CHG_MS_CAN: 185
   response: 73F0462D901BA
+- expected_values:
+    VOLVO_CHG_MS_CAN: 186
+  response: 73F0462D901BB

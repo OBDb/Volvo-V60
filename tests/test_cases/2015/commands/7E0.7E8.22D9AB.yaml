@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22D9AB
 test_cases:
 - expected_values:
-    VOLVO_TMAP_IAT: 14.46
-  response: 7E80562D9AB0B3C
+    VOLVO_TMAP_IAT: 9.46
+  response: 7E80562D9AB0B0A
 - expected_values:
     VOLVO_TMAP_IAT: 18.66
   response: 7E80562D9AB0B66

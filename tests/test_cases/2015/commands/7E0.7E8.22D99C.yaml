@@ -4,5 +4,5 @@ test_cases:
     VOLVO_FUEL_T: 15.6
   response: 7E80562D99C0B46
 - expected_values:
-    VOLVO_FUEL_T: 24.8
-  response: 7E80562D99C0BA2
+    VOLVO_FUEL_T: 33.6
+  response: 7E80562D99C0BFA

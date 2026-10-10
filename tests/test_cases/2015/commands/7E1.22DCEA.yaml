@@ -4,5 +4,8 @@ test_cases:
     VOLVO_SELECTOR: 0
   response: 7E90462DCEA00
 - expected_values:
+    VOLVO_SELECTOR: 2
+  response: 7E90462DCEA04
+- expected_values:
     VOLVO_SELECTOR: 20
   response: 7E90462DCEA28

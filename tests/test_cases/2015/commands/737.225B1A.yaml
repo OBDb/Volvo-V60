@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLVO_SEAT_BUCKLE: 0
   response: 73F04625B1A00
+- expected_values:
+    VOLVO_SEAT_BUCKLE: 1
+  response: 73F04625B1A02

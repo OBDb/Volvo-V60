@@ -4,6 +4,9 @@ test_cases:
     VOLVO_ACCEL_PEDAL_POS: 0
   response: 7E90562DD8E0000
 - expected_values:
+    VOLVO_ACCEL_PEDAL_POS: 6.2
+  response: 7E90562DD8E003E
+- expected_values:
     VOLVO_ACCEL_PEDAL_POS: 10.9
   response: 7E90562DD8E006D
 - expected_values:
@@ -12,6 +15,9 @@ test_cases:
 - expected_values:
     VOLVO_ACCEL_PEDAL_POS: 14.4
   response: 7E90562DD8E0090
+- expected_values:
+    VOLVO_ACCEL_PEDAL_POS: 15.5
+  response: 7E90562DD8E009B
 - expected_values:
     VOLVO_ACCEL_PEDAL_POS: 15.7
   response: 7E90562DD8E009D

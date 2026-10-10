@@ -15,3 +15,8 @@ test_cases:
   response: |-
     728100A62D936010001
     728210B300001000000
+- expected_values:
+    VOLVO_TRIP_1: 393.5
+  response: |-
+    728100A62D936010001
+    728210F5F0001000000

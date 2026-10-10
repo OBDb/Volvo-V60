@@ -1,26 +1,14 @@
 command_id: 726.22412A
 test_cases:
 - expected_values:
+    VOLVO_TWILIGHT_SENS: 425
+  response: 72E0562412A01A9
+- expected_values:
     VOLVO_TWILIGHT_SENS: 582
   response: 72E0562412A0246
 - expected_values:
-    VOLVO_TWILIGHT_SENS: 617
-  response: 72E0562412A0269
-- expected_values:
     VOLVO_TWILIGHT_SENS: 901
   response: 72E0562412A0385
-- expected_values:
-    VOLVO_TWILIGHT_SENS: 915
-  response: 72E0562412A0393
-- expected_values:
-    VOLVO_TWILIGHT_SENS: 929
-  response: 72E0562412A03A1
-- expected_values:
-    VOLVO_TWILIGHT_SENS: 952
-  response: 72E0562412A03B8
-- expected_values:
-    VOLVO_TWILIGHT_SENS: 979
-  response: 72E0562412A03D3
 - expected_values:
     VOLVO_TWILIGHT_SENS: 980
   response: 72E0562412A03D4

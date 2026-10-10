@@ -1,6 +1,12 @@
 command_id: 720.22EE12
 test_cases:
 - expected_values:
+    VOLVO_FLI_DAMPED: 9.8
+  response: 7280562EE120031
+- expected_values:
+    VOLVO_FLI_DAMPED: 10.4
+  response: 7280562EE120034
+- expected_values:
     VOLVO_FLI_DAMPED: 10.6
   response: 7280562EE120035
 - expected_values:

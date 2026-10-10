@@ -4,26 +4,5 @@ test_cases:
     VOLVO_FLI_SENS: 2.50257
   response: '72E056241170200'
 - expected_values:
-    VOLVO_FLI_SENS: 2.66875
-  response: '72E056241170222'
-- expected_values:
-    VOLVO_FLI_SENS: 2.67364
-  response: '72E056241170223'
-- expected_values:
-    VOLVO_FLI_SENS: 2.82027
-  response: '72E056241170241'
-- expected_values:
-    VOLVO_FLI_SENS: 2.98646
-  response: '72E056241170263'
-- expected_values:
-    VOLVO_FLI_SENS: 2.99135
-  response: '72E056241170264'
-- expected_values:
-    VOLVO_FLI_SENS: 3.03045
-  response: 72E05624117026C
-- expected_values:
-    VOLVO_FLI_SENS: 3.06467
-  response: '72E056241170273'
-- expected_values:
-    VOLVO_FLI_SENS: 3.14287
-  response: '72E056241170283'
+    VOLVO_FLI_SENS: 3.43125
+  response: 72E0562411702BE

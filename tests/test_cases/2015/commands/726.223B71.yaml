@@ -1,6 +1,9 @@
 command_id: 726.223B71
 test_cases:
 - expected_values:
+    VOLVO_FRONT_AXLE_SENS: 0
+  response: 72E04623B7100
+- expected_values:
     VOLVO_FRONT_AXLE_SENS: 2.675
   response: 72E04623B716B
 - expected_values:
@@ -19,5 +22,11 @@ test_cases:
     VOLVO_FRONT_AXLE_SENS: 2.8
   response: 72E04623B7170
 - expected_values:
+    VOLVO_FRONT_AXLE_SENS: 2.825
+  response: 72E04623B7171
+- expected_values:
     VOLVO_FRONT_AXLE_SENS: 2.85
   response: 72E04623B7172
+- expected_values:
+    VOLVO_FRONT_AXLE_SENS: 2.875
+  response: 72E04623B7173

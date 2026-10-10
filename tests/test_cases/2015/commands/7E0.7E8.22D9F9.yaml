@@ -4,11 +4,8 @@ test_cases:
     VOLVO_DPF_T: 82.76
   response: 7E80562D9F90DE7
 - expected_values:
-    VOLVO_DPF_T: 88.96
-  response: 7E80562D9F90E25
-- expected_values:
     VOLVO_DPF_T: 110.56
   response: 7E80562D9F90EFD
 - expected_values:
-    VOLVO_DPF_T: 140.56
-  response: 7E80562D9F91029
+    VOLVO_DPF_T: 213.66
+  response: 7E80562D9F91304
