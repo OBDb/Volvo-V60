@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22DAD2
 test_cases:
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 5.66
-  response: 7E80562DAD20236
+    V60_EGR_COOLER_BYPASS: 5.64
+  response: 7E80562DAD20234
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 92.05
+    V60_EGR_COOLER_BYPASS: 92.05
   response: 7E80562DAD223F5
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 92.17
+    V60_EGR_COOLER_BYPASS: 92.17
   response: 7E80562DAD22401
 - expected_values:
-    VOLVO_EGR_COOLER_BYPASS: 100
+    V60_EGR_COOLER_BYPASS: 100
   response: 7E80562DAD22710

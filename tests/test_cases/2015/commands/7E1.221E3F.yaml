@@ -1,8 +1,8 @@
 command_id: 7E1.221E3F
 test_cases:
 - expected_values:
-    VOLVO_ATF_T_7E1: 6
+    V60_ATF_T_7E1: 6
   response: 7E905621E3F0018
 - expected_values:
-    VOLVO_ATF_T_7E1: 19.25
+    V60_ATF_T_7E1: 19.25
   response: 7E905621E3F004D

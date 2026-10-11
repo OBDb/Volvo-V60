@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F44A
 test_cases:
 - expected_values:
-    VOLVO_M3_APP_CAN: 0
+    V60_M3_APP_CAN: 0
   response: 7E80462F44A00
 - expected_values:
-    VOLVO_M3_APP_CAN: 20.78431
-  response: 7E80462F44A35
+    V60_M3_APP_CAN: 21.17647
+  response: 7E80462F44A36

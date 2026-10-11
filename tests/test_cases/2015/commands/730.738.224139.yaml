@@ -1,0 +1,8 @@
+command_id: 730.738.224139
+test_cases:
+- expected_values:
+    V60_SERVO_PMP_ENG_POWER: 5
+  response: 738046241390A
+- expected_values:
+    V60_SERVO_PMP_ENG_POWER: 16
+  response: '7380462413920'

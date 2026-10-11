@@ -1,0 +1,5 @@
+command_id: 737.73F.225B46
+test_cases:
+- expected_values:
+    V60_SEAT_BUCKLE_RL: 0
+  response: 73F04625B4600

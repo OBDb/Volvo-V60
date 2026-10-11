@@ -1,0 +1,8 @@
+command_id: 726.72E.2240D1
+test_cases:
+- expected_values:
+    V60_ALTERNATOR_CTRL_MODE: 0
+  response: 72E046240D100
+- expected_values:
+    V60_ALTERNATOR_CTRL_MODE: 2
+  response: 72E046240D102

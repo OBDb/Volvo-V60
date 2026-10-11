@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22D9F9
 test_cases:
 - expected_values:
-    VOLVO_DPF_T: 82.76
+    V60_DPF_T: 82.76
   response: 7E80562D9F90DE7
 - expected_values:
-    VOLVO_DPF_T: 110.56
+    V60_DPF_T: 110.56
   response: 7E80562D9F90EFD
 - expected_values:
-    VOLVO_DPF_T: 213.66
+    V60_DPF_T: 213.66
   response: 7E80562D9F91304
 - expected_values:
-    VOLVO_DPF_T: 293.06
+    V60_DPF_T: 293.06
   response: 7E80562D9F9161E

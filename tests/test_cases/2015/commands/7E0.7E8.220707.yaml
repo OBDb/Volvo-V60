@@ -1,20 +1,23 @@
 command_id: 7E0.7E8.220707
 test_cases:
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 0
+    V60_GRILL_SHUTTER_OPEN: 0
   response: '7E80462070700'
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 6.66667
+    V60_GRILL_SHUTTER_OPEN: 6.66667
   response: '7E80462070711'
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 13.33333
+    V60_GRILL_SHUTTER_OPEN: 13.33333
   response: '7E80462070722'
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 26.66667
+    V60_GRILL_SHUTTER_OPEN: 20
+  response: '7E80462070733'
+- expected_values:
+    V60_GRILL_SHUTTER_OPEN: 26.66667
   response: '7E80462070744'
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 66.66667
+    V60_GRILL_SHUTTER_OPEN: 66.66667
   response: 7E804620707AA
 - expected_values:
-    VOLVO_GRILL_SHUTTER_OPEN: 100
+    V60_GRILL_SHUTTER_OPEN: 100
   response: 7E804620707FF

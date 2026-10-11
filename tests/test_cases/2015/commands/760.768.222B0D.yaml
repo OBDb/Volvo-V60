@@ -1,0 +1,20 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    V60_BRAKE_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    V60_BRAKE_P: 0.33333
+  response: 76805622B0D0001
+- expected_values:
+    V60_BRAKE_P: 4.66667
+  response: 76805622B0D000E
+- expected_values:
+    V60_BRAKE_P: 5.66667
+  response: 76805622B0D0011
+- expected_values:
+    V60_BRAKE_P: 13.33333
+  response: 76805622B0D0028
+- expected_values:
+    V60_BRAKE_P: 20
+  response: 76805622B0D003C

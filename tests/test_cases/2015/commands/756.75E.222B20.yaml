@@ -1,0 +1,8 @@
+command_id: 756.75E.222B20
+test_cases:
+- expected_values:
+    V60_PARKING_BRAKE_CNT: 9848
+  response: 75E07622B2000002678
+- expected_values:
+    V60_PARKING_BRAKE_CNT: 9849
+  response: 75E07622B2000002679

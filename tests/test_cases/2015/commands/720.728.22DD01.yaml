@@ -1,0 +1,11 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_DIM: 268430
+  response: 7280662DD0104188E
+- expected_values:
+    V60_ODO_DIM: 268452
+  response: 7280662DD010418A4
+- expected_values:
+    V60_ODO_DIM: 268551
+  response: 7280662DD01041907

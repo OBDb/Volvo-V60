@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22DAAD
 test_cases:
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 43
+    V60_EGR_VLV_POS_SENS: 43
   response: 7E80562DAAD002B
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 1272
-  response: 7E80562DAAD04F8
+    V60_EGR_VLV_POS_SENS: 764
+  response: 7E80562DAAD02FC
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 1792
+    V60_EGR_VLV_POS_SENS: 1792
   response: 7E80562DAAD0700
 - expected_values:
-    VOLVO_EGR_VLV_POS_SENS: 65112
+    V60_EGR_VLV_POS_SENS: 65112
   response: 7E80562DAADFE58

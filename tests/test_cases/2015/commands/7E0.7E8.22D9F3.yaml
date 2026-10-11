@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22D9F3
 test_cases:
 - expected_values:
-    VOLVO_M3_DIFF_PRESS: 0
+    V60_M3_DIFF_PRESS: 0
   response: 7E80562D9F30000
 - expected_values:
-    VOLVO_M3_DIFF_PRESS: 65535
+    V60_M3_DIFF_PRESS: 65535
   response: 7E80562D9F3FFFF

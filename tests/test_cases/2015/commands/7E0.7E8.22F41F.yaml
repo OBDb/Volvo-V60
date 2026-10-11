@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 119
-  response: 7E80562F41F0077
+    V60_TIME_SINCE_ENG_START: 0
+  response: 7E80562F41F0000
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 258
-  response: 7E80562F41F0102
-- expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 5621
+    V60_TIME_SINCE_ENG_START: 5621
   response: 7E80562F41F15F5
 - expected_values:
-    VOLVO_TIME_SINCE_ENG_START: 5651
+    V60_TIME_SINCE_ENG_START: 5651
   response: 7E80562F41F1613

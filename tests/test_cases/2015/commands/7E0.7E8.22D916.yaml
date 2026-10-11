@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22D916
 test_cases:
 - expected_values:
-    VOLVO_AIR_FLOW_CYCLE_MG_S: 0
+    V60_AIR_FLOW_CYCLE_MG_S: 0
   response: 7E80562D9160000
 - expected_values:
-    VOLVO_AIR_FLOW_CYCLE_MG_S: 406
-  response: 7E80562D9160FDC
+    V60_AIR_FLOW_CYCLE_MG_S: 536.8
+  response: 7E80562D91614F8
 - expected_values:
-    VOLVO_AIR_FLOW_CYCLE_MG_S: 938.8
+    V60_AIR_FLOW_CYCLE_MG_S: 938.8
   response: 7E80562D91624AC

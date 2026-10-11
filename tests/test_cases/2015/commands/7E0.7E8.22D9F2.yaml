@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22D9F2
 test_cases:
 - expected_values:
-    VOLVO_DPF_SOOT: 21.53
+    V60_DPF_SOOT: 21.53
   response: 7E80562D9F20869
 - expected_values:
-    VOLVO_DPF_SOOT: 22.24
+    V60_DPF_SOOT: 22.24
   response: 7E80562D9F208B0

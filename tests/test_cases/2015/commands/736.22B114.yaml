@@ -1,5 +1,0 @@
-command_id: 736.22B114
-test_cases:
-- expected_values:
-    VOLVO_RL_INNER_DIST: 255
-  response: 73E0462B114FF

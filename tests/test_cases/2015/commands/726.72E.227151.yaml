@@ -1,0 +1,32 @@
+command_id: 726.72E.227151
+test_cases:
+- expected_values:
+    V60_DIPPED_BEAM: 0
+    V60_HIGH_BEAM: 0
+    V60_PARKING_LIGHTS: 0
+  response: '72E0762715100000000'
+- expected_values:
+    V60_DIPPED_BEAM: 4
+    V60_HIGH_BEAM: 4
+    V60_PARKING_LIGHTS: 12
+  response: 72E0762715104040C02
+- expected_values:
+    V60_DIPPED_BEAM: 6
+    V60_HIGH_BEAM: 4
+    V60_PARKING_LIGHTS: 12
+  response: 72E0762715106040C02
+- expected_values:
+    V60_DIPPED_BEAM: 212
+    V60_HIGH_BEAM: 4
+    V60_PARKING_LIGHTS: 12
+  response: 72E07627151D4040C02
+- expected_values:
+    V60_DIPPED_BEAM: 213
+    V60_HIGH_BEAM: 4
+    V60_PARKING_LIGHTS: 12
+  response: 72E07627151D5040C02
+- expected_values:
+    V60_DIPPED_BEAM: 214
+    V60_HIGH_BEAM: 4
+    V60_PARKING_LIGHTS: 12
+  response: 72E07627151D6040C02

@@ -1,0 +1,14 @@
+command_id: 726.72E.22412A
+test_cases:
+- expected_values:
+    V60_TWILIGHT_SENS: 425
+  response: 72E0562412A01A9
+- expected_values:
+    V60_TWILIGHT_SENS: 520
+  response: 72E0562412A0208
+- expected_values:
+    V60_TWILIGHT_SENS: 732
+  response: 72E0562412A02DC
+- expected_values:
+    V60_TWILIGHT_SENS: 784
+  response: 72E0562412A0310

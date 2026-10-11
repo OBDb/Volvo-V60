@@ -1,8 +1,8 @@
 command_id: 7E1.22E504
 test_cases:
 - expected_values:
-    VOLVO_BRAKE_PEDAL_POS: 0
+    V60_BRAKE_PEDAL_POS: 0
   response: 7E90462E50400
 - expected_values:
-    VOLVO_BRAKE_PEDAL_POS: 1
+    V60_BRAKE_PEDAL_POS: 1
   response: 7E90462E50401

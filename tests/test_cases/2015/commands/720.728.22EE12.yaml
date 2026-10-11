@@ -1,0 +1,32 @@
+command_id: 720.728.22EE12
+test_cases:
+- expected_values:
+    V60_FLI_DAMPED: 9.8
+  response: 7280562EE120031
+- expected_values:
+    V60_FLI_DAMPED: 10.4
+  response: 7280562EE120034
+- expected_values:
+    V60_FLI_DAMPED: 10.6
+  response: 7280562EE120035
+- expected_values:
+    V60_FLI_DAMPED: 11.2
+  response: 7280562EE120038
+- expected_values:
+    V60_FLI_DAMPED: 11.4
+  response: 7280562EE120039
+- expected_values:
+    V60_FLI_DAMPED: 11.6
+  response: 7280562EE12003A
+- expected_values:
+    V60_FLI_DAMPED: 11.8
+  response: 7280562EE12003B
+- expected_values:
+    V60_FLI_DAMPED: 44.2
+  response: 7280562EE1200DD
+- expected_values:
+    V60_FLI_DAMPED: 44.6
+  response: 7280562EE1200DF
+- expected_values:
+    V60_FLI_DAMPED: 45
+  response: 7280562EE1200E1

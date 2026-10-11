@@ -1,0 +1,5 @@
+command_id: 720.728.22DA18
+test_cases:
+- expected_values:
+    V60_TSI_SPD: 0
+  response: 7280762DA1800000000

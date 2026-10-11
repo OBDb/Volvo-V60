@@ -1,0 +1,8 @@
+command_id: 726.72E.223B71
+test_cases:
+- expected_values:
+    V60_FRONT_AXLE_SENS: 0
+  response: 72E04623B7100
+- expected_values:
+    V60_FRONT_AXLE_SENS: 2.95
+  response: 72E04623B7176

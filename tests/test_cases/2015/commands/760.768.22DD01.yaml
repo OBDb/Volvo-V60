@@ -1,0 +1,11 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_BCM: 268430
+  response: 7680662DD0104188E
+- expected_values:
+    V60_ODO_BCM: 268451
+  response: 7680662DD010418A3
+- expected_values:
+    V60_ODO_BCM: 268552
+  response: 7680662DD01041908

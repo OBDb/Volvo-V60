@@ -1,0 +1,26 @@
+command_id: 737.73F.22D901
+test_cases:
+- expected_values:
+    V60_V_SUP: 13.68
+  response: 73F0462D901AB
+- expected_values:
+    V60_V_SUP: 14.32
+  response: 73F0462D901B3
+- expected_values:
+    V60_V_SUP: 14.64
+  response: 73F0462D901B7
+- expected_values:
+    V60_V_SUP: 14.72
+  response: 73F0462D901B8
+- expected_values:
+    V60_V_SUP: 14.8
+  response: 73F0462D901B9
+- expected_values:
+    V60_V_SUP: 14.88
+  response: 73F0462D901BA
+- expected_values:
+    V60_V_SUP: 14.96
+  response: 73F0462D901BB
+- expected_values:
+    V60_V_SUP: 15.36
+  response: 73F0462D901C0

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22D9FF
 test_cases:
 - expected_values:
-    VOLVO_FUEL_P_NOMINAL: 300000
+    V60_FUEL_P_NOMINAL: 300000
   response: 7E80562D9FF0BB8
 - expected_values:
-    VOLVO_FUEL_P_NOMINAL: 741900
-  response: 7E80562D9FF1CFB
+    V60_FUEL_P_NOMINAL: 588700
+  response: 7E80562D9FF16FF
 - expected_values:
-    VOLVO_FUEL_P_NOMINAL: 1152400
-  response: 7E80562D9FF2D04
+    V60_FUEL_P_NOMINAL: 768200
+  response: 7E80562D9FF1E02
 - expected_values:
-    VOLVO_FUEL_P_NOMINAL: 1271100
-  response: 7E80562D9FF31A7
+    V60_FUEL_P_NOMINAL: 1357900
+  response: 7E80562D9FF350B
