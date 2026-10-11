@@ -1,0 +1,11 @@
+command_id: 737.73F.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_SRS: 268430
+  response: 73F0662DD0104188E
+- expected_values:
+    V60_ODO_SRS: 268451
+  response: 73F0662DD010418A3
+- expected_values:
+    V60_ODO_SRS: 268551
+  response: 73F0662DD01041907

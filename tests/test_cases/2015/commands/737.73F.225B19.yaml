@@ -1,0 +1,8 @@
+command_id: 737.73F.225B19
+test_cases:
+- expected_values:
+    V60_SEAT_BUCKLE_DRIVER: 0
+  response: 73F04625B1900
+- expected_values:
+    V60_SEAT_BUCKLE_DRIVER: 1
+  response: 73F04625B1902

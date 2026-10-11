@@ -1,0 +1,11 @@
+command_id: 756.75E.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_PBM: 268430
+  response: 75E0662DD0104188E
+- expected_values:
+    V60_ODO_PBM: 268452
+  response: 75E0662DD010418A4
+- expected_values:
+    V60_ODO_PBM: 268552
+  response: 75E0662DD01041908

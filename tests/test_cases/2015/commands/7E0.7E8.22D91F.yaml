@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22D91F
 test_cases:
 - expected_values:
-    VOLVO_AIR_MASS_DES: 280.9
+    V60_AIR_MASS_DES: 280.9
   response: 7E80562D91F0AF9
 - expected_values:
-    VOLVO_AIR_MASS_DES: 409.6
+    V60_AIR_MASS_DES: 409.6
   response: 7E80562D91F1000
 - expected_values:
-    VOLVO_AIR_MASS_DES: 988.9
+    V60_AIR_MASS_DES: 988.9
   response: 7E80562D91F26A1

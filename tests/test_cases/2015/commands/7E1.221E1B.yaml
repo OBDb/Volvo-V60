@@ -1,11 +1,11 @@
 command_id: 7E1.221E1B
 test_cases:
 - expected_values:
-    VOLVO_SLAVE_T: 0
+    V60_SLAVE_T: 0
   response: 7E905621E1B0000
 - expected_values:
-    VOLVO_SLAVE_T: 759
+    V60_SLAVE_T: 759
   response: 7E905621E1B02F7
 - expected_values:
-    VOLVO_SLAVE_T: 2221
+    V60_SLAVE_T: 2221
   response: 7E905621E1B08AD

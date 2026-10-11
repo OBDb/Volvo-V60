@@ -1,0 +1,11 @@
+command_id: 736.73E.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_PAM: 268430
+  response: 73E0662DD0104188E
+- expected_values:
+    V60_ODO_PAM: 268451
+  response: 73E0662DD010418A3
+- expected_values:
+    V60_ODO_PAM: 268551
+  response: 73E0662DD01041907

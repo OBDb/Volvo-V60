@@ -1,0 +1,11 @@
+command_id: 720.728.22EEFD
+test_cases:
+- expected_values:
+    V60_DIST_EMPTY_MS_CAN: 133
+  response: 7280562EEFD0085
+- expected_values:
+    V60_DIST_EMPTY_MS_CAN: 727
+  response: 7280562EEFD02D7
+- expected_values:
+    V60_DIST_EMPTY_MS_CAN: 817
+  response: 7280562EEFD0331

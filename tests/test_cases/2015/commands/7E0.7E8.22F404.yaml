@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    VOLVO_CALC_LOAD: 0
+    V60_CALC_LOAD: 0
   response: 7E80462F40400
 - expected_values:
-    VOLVO_CALC_LOAD: 66.27451
-  response: 7E80462F404A9
+    V60_CALC_LOAD: 69.01961
+  response: 7E80462F404B0

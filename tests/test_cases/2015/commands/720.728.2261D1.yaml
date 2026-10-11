@@ -1,0 +1,8 @@
+command_id: 720.728.2261D1
+test_cases:
+- expected_values:
+    V60_DIM_FLI_1_2: 5.8
+  response: 728056261D1003A
+- expected_values:
+    V60_DIM_FLI_1_2: 45
+  response: 728056261D101C2

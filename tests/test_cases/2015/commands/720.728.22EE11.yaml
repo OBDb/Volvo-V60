@@ -1,0 +1,8 @@
+command_id: 720.728.22EE11
+test_cases:
+- expected_values:
+    V60_DIM_FLI_DAMPED: 0
+  response: 7280562EE110000
+- expected_values:
+    V60_DIM_FLI_DAMPED: 45
+  response: 7280562EE1100E1

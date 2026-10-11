@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22DAC8
 test_cases:
 - expected_values:
-    VOLVO_DPF_P: 0
+    V60_DPF_P: 0
   response: 7E80562DAC80000
 - expected_values:
-    VOLVO_DPF_P: -1
+    V60_DPF_P: -1
   response: 7E80562DAC8FFFF

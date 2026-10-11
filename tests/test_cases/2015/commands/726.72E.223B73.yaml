@@ -1,0 +1,32 @@
+command_id: 726.72E.223B73
+test_cases:
+- expected_values:
+    V60_REAR_AXLE_SENS: 0
+  response: 72E04623B7300
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.475
+  response: 72E04623B7363
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.5
+  response: 72E04623B7364
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.525
+  response: 72E04623B7365
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.55
+  response: 72E04623B7366
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.575
+  response: 72E04623B7367
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.6
+  response: 72E04623B7368
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.625
+  response: 72E04623B7369
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.65
+  response: 72E04623B736A
+- expected_values:
+    V60_REAR_AXLE_SENS: 2.75
+  response: 72E04623B736E

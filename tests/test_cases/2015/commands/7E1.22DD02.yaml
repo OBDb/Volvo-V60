@@ -1,11 +1,14 @@
 command_id: 7E1.22DD02
 test_cases:
 - expected_values:
-    VOLVO_MECU_SUP_V: 12.5
+    V60_MECU_SUP_V: 12.5
   response: 7E90462DD0232
 - expected_values:
-    VOLVO_MECU_SUP_V: 14.5
+    V60_MECU_SUP_V: 13.75
+  response: 7E90462DD0237
+- expected_values:
+    V60_MECU_SUP_V: 14.5
   response: 7E90462DD023A
 - expected_values:
-    VOLVO_MECU_SUP_V: 14.75
+    V60_MECU_SUP_V: 14.75
   response: 7E90462DD023B

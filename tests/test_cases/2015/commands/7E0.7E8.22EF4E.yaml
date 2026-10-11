@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22EF4E
 test_cases:
 - expected_values:
-    VOLVO_EOP_V2: 82.3
+    V60_EOP: 82.3
   response: 7E80562EF4E0337
 - expected_values:
-    VOLVO_EOP_V2: 563
+    V60_EOP: 537.7
+  response: 7E80562EF4E1501
+- expected_values:
+    V60_EOP: 563
   response: 7E80562EF4E15FE
 - expected_values:
-    VOLVO_EOP_V2: 640.2
+    V60_EOP: 640.2
   response: 7E80562EF4E1902

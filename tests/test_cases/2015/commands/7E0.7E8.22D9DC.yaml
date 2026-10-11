@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22D9DC
 test_cases:
 - expected_values:
-    VOLVO_EOT_V2: 22.26
+    V60_EOT: 22.26
   response: 7E80562D9DC0B8A
 - expected_values:
-    VOLVO_EOT_V2: 33.66
+    V60_EOT: 33.66
   response: 7E80562D9DC0BFC
 - expected_values:
-    VOLVO_EOT_V2: 34.06
+    V60_EOT: 34.06
   response: 7E80562D9DC0C00
 - expected_values:
-    VOLVO_EOT_V2: 97.06
-  response: 7E80562D9DC0E76
+    V60_EOT: 85.26
+  response: 7E80562D9DC0E00

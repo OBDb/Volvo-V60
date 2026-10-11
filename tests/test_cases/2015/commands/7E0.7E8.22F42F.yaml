@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    VOLVO_FLI_INPUT: 13.33333
+    V60_FLI_INPUT: 13.33333
   response: 7E80462F42F22
 - expected_values:
-    VOLVO_FLI_INPUT: 99.60784
+    V60_FLI_INPUT: 99.60784
   response: 7E80462F42FFE

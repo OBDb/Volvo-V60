@@ -1,0 +1,14 @@
+command_id: 760.768.223302
+test_cases:
+- expected_values:
+    V60_STEER_ANG_ACT: 674.8
+  response: 768056233021A5C
+- expected_values:
+    V60_STEER_ANG_ACT: 769.4
+  response: 768056233021E0E
+- expected_values:
+    V60_STEER_ANG_ACT: 786.7
+  response: 768056233021EBB
+- expected_values:
+    V60_STEER_ANG_ACT: 1168.6
+  response: 768056233022DA6

@@ -1,8 +1,0 @@
-command_id: 720.22EE11
-test_cases:
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 6
-  response: 7280562EE11001E
-- expected_values:
-    VOLVO_DIM_FLI_DAMPED: 45
-  response: 7280562EE1100E1

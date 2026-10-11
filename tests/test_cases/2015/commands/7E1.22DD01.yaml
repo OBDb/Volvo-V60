@@ -1,14 +1,14 @@
 command_id: 7E1.22DD01
 test_cases:
 - expected_values:
-    VOLVO_ODO_TCM: 268430
-  response: 7280662DD0104188E
+    V60_ODO_TCM: 268430
+  response: 79B0662DD0104188E
 - expected_values:
-    VOLVO_ODO_TCM: 268452
-  response: 7280662DD010418A4
+    V60_ODO_TCM: 268552
+  response: 79B0662DD01041908
 - expected_values:
-    VOLVO_ODO_TCM: 268551
-  response: 7280662DD01041907
+    V60_ODO_TCM: 268452
+  response: 79F0662DD010418A4
 - expected_values:
-    VOLVO_ODO_TCM: 268430
+    V60_ODO_TCM: 268430
   response: 7E90662DD0104188E
