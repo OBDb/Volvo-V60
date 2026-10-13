@@ -4,8 +4,11 @@ test_cases:
     V60_DIST_EMPTY_MS_CAN: 133
   response: 7280562EEFD0085
 - expected_values:
-    V60_DIST_EMPTY_MS_CAN: 727
-  response: 7280562EEFD02D7
+    V60_DIST_EMPTY_MS_CAN: 508
+  response: 7280562EEFD01FC
+- expected_values:
+    V60_DIST_EMPTY_MS_CAN: 513
+  response: 7280562EEFD0201
 - expected_values:
     V60_DIST_EMPTY_MS_CAN: 817
   response: 7280562EEFD0331
