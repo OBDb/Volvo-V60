@@ -553,7 +553,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DAAD"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "V60_EGR_VLV_POS_SENS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "Exhaust gas recirculation valve position sensor"}
+    {"id": "V60_EGR_VLV_POS_SENS", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "percent" }, "name": "Exhaust gas recirculation valve position sensor"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DAB6"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
@@ -592,7 +592,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DC01"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "V60_EGR_VLV_CMD_POS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "Exhaust gas recirculation valve, commanded position"}
+    {"id": "V60_EGR_VLV_CMD_POS", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "percent" }, "name": "Exhaust gas recirculation valve, commanded position"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DC02"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
@@ -704,7 +704,7 @@
   ]},
 { "hdr": "7E1", "cmd": {"22": "1E14"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
-    {"id": "V60_T_CONV", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "A/T converter"}
+    {"id": "V60_T_CONV", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "A/T converter, raw signed count"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "1E16"}, "freq": 0.25, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [

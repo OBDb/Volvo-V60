@@ -4,8 +4,8 @@ test_cases:
     V60_T_CONV: 0
   response: 7E905621E140000
 - expected_values:
-    V60_T_CONV: 65302
+    V60_T_CONV: -234
   response: 7E905621E14FF16
 - expected_values:
-    V60_T_CONV: 65534
+    V60_T_CONV: -2
   response: 7E905621E14FFFE
