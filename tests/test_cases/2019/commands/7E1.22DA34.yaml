@@ -1,0 +1,17 @@
+command_id: 7E1.22DA34
+test_cases:
+- expected_values:
+    V60_GEAR_RAT_ACT_7E1: 0.6731
+  response: 1EC64E800562DA340AC5
+- expected_values:
+    V60_GEAR_RAT_ACT_7E1: 0.67383
+  response: 1EC64E800562DA340AC8
+- expected_values:
+    V60_GEAR_RAT_ACT_7E1: 1
+  response: 1EC64E800562DA341000
+- expected_values:
+    V60_GEAR_RAT_ACT_7E1: 1.22168
+  response: 1EC64E800562DA34138C
+- expected_values:
+    V60_GEAR_RAT_ACT_7E1: 1.22192
+  response: 1EC64E800562DA34138D
