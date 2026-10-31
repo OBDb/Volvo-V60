@@ -794,19 +794,19 @@
   "signals": [
     {"id": "V60_SLC3_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "milliamps" }, "name": "SLC3 current"}
   ]},
-{ "hdr": "7E1", "dbg": true, "cmd": {"22": "DA34"}, "freq": 0.25,
+{ "hdr": "7E1", "cmd": {"22": "DA34"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_GEAR_RAT_ACT_7E1", "path": "Transmission", "fmt": { "len": 16, "max": 15.99, "div": 4096, "unit": "scalar" }, "name": "Gear ratio, actual"}
   ]},
-{ "hdr": "7E1", "dbg": true, "cmd": {"22": "DA3B"}, "freq": 5,
+{ "hdr": "7E1", "cmd": {"22": "DA3B"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_ATF_T_VAR_2_7E1", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 2"}
   ]},
-{ "hdr": "7E1", "dbg": true, "cmd": {"22": "DA3C"}, "freq": 1,
+{ "hdr": "7E1", "cmd": {"22": "DA3C"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_LOCK_UP_FUNCTION", "path": "Engine", "fmt": { "len": 8, "max": 84.66, "min": -0.333, "div": 3, "add": -0.333333, "unit": "scalar" }, "name": "Transmission lock-up function"}
   ]},
-{ "hdr": "7E1", "dbg": true, "cmd": {"22": "DA47"}, "freq": 0.25,
+{ "hdr": "7E1", "cmd": {"22": "DA47"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_GEAR_RAT_EXPECTED", "path": "Transmission", "fmt": { "len": 16, "max": 65.53, "div": 1000, "unit": "scalar" }, "name": "Gear ratio expected"}
   ]},
@@ -862,7 +862,7 @@
   "signals": [
     {"id": "V60_TQ_LIMITING", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "newtonMeters" }, "name": "Transmission torque limiting"}
   ]},
-{ "hdr": "7E1", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2016 },
+{ "hdr": "7E1", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "V60_ODO_TCM", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -898,19 +898,19 @@
   "signals": [
     {"id": "V60_BRAKE_PEDAL_POS", "path": "Control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Brake pedal position"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "033E"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "033E"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_BOOST_AIR_P_AFTER", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilopascal" }, "name": "Boost air pressure after turbocharger"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "0341"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "0341"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_BOOST_AIR_T", "path": "Engine", "fmt": { "len": 8, "max": 119, "min": -40, "mul": 5, "div": 8, "add": -40, "unit": "celsius" }, "name": "Boost air temperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "D9EE"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "D9EE"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_TURBO_BYPASS_VLV", "path": "Engine", "fmt": {"bix": 7, "len": 1, "max": 1, "unit": "offon" }, "name": "Turbo bypass valve opened"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "DC80"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "DC80"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_WASTEGATE_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Wastegate position"}
   ]},
@@ -930,7 +930,7 @@
   "signals": [
     {"id": "V60_FUEL_HIGH_P", "path": "Fuel", "fmt": { "len": 16, "max": 32.76, "div": 2000, "unit": "unknown" }, "name": "Fuel high pressure"}
   ]},
-{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "dbg": true, "cmd": {"22": "EE57"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "EE57"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_FUEL_LOW_P", "path": "Fuel", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Fuel low pressure"}
   ]},
@@ -952,23 +952,23 @@
   "signals": [
     {"id": "V60_HIGH_V_ED_ECT_2", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "High voltage ED coolant temperature 2"}
   ]},
-{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "dbg": true, "cmd": {"22": "2B06"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "cmd": {"22": "2B06"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_FL_WHL_SPD", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "dbg": true, "cmd": {"22": "2B07"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "cmd": {"22": "2B07"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_FR_WHL_SPD", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "dbg": true, "cmd": {"22": "2B08"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "cmd": {"22": "2B08"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_RL_WHL_SPD", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "dbg": true, "cmd": {"22": "2B09"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "cmd": {"22": "2B09"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_RR_WHL_SPD", "path": "Tires", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
-{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "dbg": true, "cmd": {"22": "FEE7"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC62E80", "pri": "1D", "tst": "31", "fcm1": true, "cmd": {"22": "FEE7"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_FL_BRAKE_DISC_T", "path": "Control", "fmt": {           "len": 16, "max": 6553, "div": 10, "unit": "celsius" }, "name": "Front left brake disc temperature"},
     {"id": "V60_FR_BRAKE_DISC_T", "path": "Control", "fmt": {"bix": 16, "len": 16, "max": 6553, "div": 10, "unit": "celsius" }, "name": "Front right brake disc temperature"},
@@ -979,7 +979,7 @@
   "signals": [
     {"id": "V60_ATF_T_D016", "path": "Transmission", "fmt": { "len": 16, "max": 32767000, "min": -32768000, "mul": 1000, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "D90D"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "D90D"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_ATF_T_D016_D016", "path": "Transmission", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
@@ -987,7 +987,7 @@
   "signals": [
     {"id": "V60_CLU_1_T", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Clutch 1 temperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "D940"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "D940"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_CLU_2_T", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Clutch 2 temperature"}
   ]},
@@ -999,35 +999,35 @@
   "signals": [
     {"id": "V60_CLU_ACTUATOR_2_T", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Clutch actuator 2 temperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA34"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA34"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_GEAR_RAT_ACT", "path": "Transmission", "fmt": { "len": 16, "max": 15.99, "mul": 61, "div": 250000, "unit": "scalar" }, "name": "Gear ratio, actual"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA38"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA38"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_DRIVEN_SHFT_SPD", "path": "Movement", "fmt": { "len": 16, "max": 65535, "unit": "rpm" }, "name": "Driven shaft speed"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA3B"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA3B"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_ATF_T", "path": "Transmission", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA3C"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA3C"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_TQ_CONV_LOCK", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Torque converter lock"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA47"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA47"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_GEAR_RAT_REQ", "path": "Transmission", "fmt": { "len": 16, "max": 65.53, "div": 1000, "unit": "scalar" }, "name": "Gear ratio, requested"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA85"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA85"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_GEAR", "path": "Transmission", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DA89"}, "freq": 0.25,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DA89"}, "freq": 0.25, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_ENG_TQ", "path": "Engine", "fmt": { "len": 16, "max": 6041, "min": -512, "div": 10, "add": -512, "unit": "newtonMeters" }, "name": "Engine torque"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -1135,19 +1135,19 @@
   "signals": [
     {"id": "V60_HIGH_V_SYSTEM", "path": "Engine", "fmt": { "len": 8, "max": 260, "min": -250, "mul": 2, "add": -250, "unit": "amps" }, "name": "High voltage system current"}
   ]},
-{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "dbg": true, "cmd": {"22": "1946"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "cmd": {"22": "1946"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_MODULE_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "milliamps" }, "name": "Module current"}
   ]},
-{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "dbg": true, "cmd": {"22": "D111"}, "freq": 5,
+{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "cmd": {"22": "D111"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_MODULE_V", "path": "Battery", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "Module voltage"}
   ]},
-{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "dbg": true, "cmd": {"22": "D920"}, "freq": 1,
+{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "cmd": {"22": "D920"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_CLU_PMP_DUTY", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "percent" }, "name": "Clutch pump duty"}
   ]},
-{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+{ "hdr": "D016", "rax": "1EC70E80", "pri": "1D", "tst": "38", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "V60_DEM_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Total distance", "suggestedMetric": "odometer"}
   ]}
