@@ -1,0 +1,11 @@
+command_id: 7E1.22DD01
+test_cases:
+- expected_values:
+    V60_ODO_TCM: 147508
+  response: 1EC64E800662DD01024034
+- expected_values:
+    V60_ODO_TCM: 147546
+  response: 1EC64E800662DD0102405A
+- expected_values:
+    V60_ODO_TCM: 147508
+  response: 1EC70E800662DD01024034
