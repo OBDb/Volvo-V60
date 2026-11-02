@@ -1,0 +1,26 @@
+command_id: D016.1EC64E80.22DA38|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 649
+  response: 1EC64E800562DA380289
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 840
+  response: 1EC64E800562DA380348
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 1193
+  response: 1EC64E800562DA3804A9
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 1253
+  response: 1EC64E800562DA3804E5
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 1289
+  response: 1EC64E800562DA380509
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 1303
+  response: 1EC64E800562DA380517
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 2150
+  response: 1EC64E800562DA380866
+- expected_values:
+    V60_DRIVEN_SHFT_SPD: 2959
+  response: 1EC64E800562DA380B8F

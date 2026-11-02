@@ -1,0 +1,26 @@
+command_id: D016.1EC64E80.22DA89|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_ENG_TQ: -5
+  response: 1EC64E800562DA8913CE
+- expected_values:
+    V60_ENG_TQ: 30
+  response: 1EC64E800562DA89152C
+- expected_values:
+    V60_ENG_TQ: 61
+  response: 1EC64E800562DA891662
+- expected_values:
+    V60_ENG_TQ: 73
+  response: 1EC64E800562DA8916DA
+- expected_values:
+    V60_ENG_TQ: 89
+  response: 1EC64E800562DA89177A
+- expected_values:
+    V60_ENG_TQ: 119
+  response: 1EC64E800562DA8918A6
+- expected_values:
+    V60_ENG_TQ: 136
+  response: 1EC64E800562DA891950
+- expected_values:
+    V60_ENG_TQ: 254
+  response: 1EC64E800562DA891DEC

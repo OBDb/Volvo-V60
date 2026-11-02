@@ -1,0 +1,20 @@
+command_id: D016.1EC62E80.222B06|ta=31,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_FL_WHL_SPD: 0
+  response: 1EC62E8004622B0600
+- expected_values:
+    V60_FL_WHL_SPD: 36
+  response: 1EC62E8004622B0624
+- expected_values:
+    V60_FL_WHL_SPD: 51
+  response: 1EC62E8004622B0633
+- expected_values:
+    V60_FL_WHL_SPD: 53
+  response: 1EC62E8004622B0635
+- expected_values:
+    V60_FL_WHL_SPD: 89
+  response: 1EC62E8004622B0659
+- expected_values:
+    V60_FL_WHL_SPD: 117
+  response: 1EC62E8004622B0675

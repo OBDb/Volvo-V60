@@ -1,0 +1,17 @@
+command_id: D016.1EC70E80.22D920|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_CLU_PMP_DUTY: 10
+  response: 1EC70E800462D9200A
+- expected_values:
+    V60_CLU_PMP_DUTY: 11
+  response: 1EC70E800462D9200B
+- expected_values:
+    V60_CLU_PMP_DUTY: 13
+  response: 1EC70E800462D9200D
+- expected_values:
+    V60_CLU_PMP_DUTY: 16
+  response: 1EC70E800462D92010
+- expected_values:
+    V60_CLU_PMP_DUTY: 24
+  response: 1EC70E800462D92018

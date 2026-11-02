@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22033E|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_BOOST_AIR_P_AFTER: 131.88
+  response: 1EC60E800562033E3384
+- expected_values:
+    V60_BOOST_AIR_P_AFTER: 143.59
+  response: 1EC60E800562033E3817
+- expected_values:
+    V60_BOOST_AIR_P_AFTER: 153.4
+  response: 1EC60E800562033E3BEC
+- expected_values:
+    V60_BOOST_AIR_P_AFTER: 260.34
+  response: 1EC60E800562033E65B2
