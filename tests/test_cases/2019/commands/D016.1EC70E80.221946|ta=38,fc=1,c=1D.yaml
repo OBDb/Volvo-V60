@@ -1,0 +1,23 @@
+command_id: D016.1EC70E80.221946|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_MODULE_CURRENT: 1150
+  response: 1EC70E8005621946047E
+- expected_values:
+    V60_MODULE_CURRENT: 1271
+  response: 1EC70E800562194604F7
+- expected_values:
+    V60_MODULE_CURRENT: 1392
+  response: 1EC70E80056219460570
+- expected_values:
+    V60_MODULE_CURRENT: 1440
+  response: 1EC70E800562194605A0
+- expected_values:
+    V60_MODULE_CURRENT: 1537
+  response: 1EC70E80056219460601
+- expected_values:
+    V60_MODULE_CURRENT: 1851
+  response: 1EC70E8005621946073B
+- expected_values:
+    V60_MODULE_CURRENT: 2020
+  response: 1EC70E800562194607E4

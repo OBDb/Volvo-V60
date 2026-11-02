@@ -1,0 +1,26 @@
+command_id: D016.1EC62E80.222B09|ta=31,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_RR_WHL_SPD: 0
+  response: 1EC62E8004622B0900
+- expected_values:
+    V60_RR_WHL_SPD: 36
+  response: 1EC62E8004622B0924
+- expected_values:
+    V60_RR_WHL_SPD: 37
+  response: 1EC62E8004622B0925
+- expected_values:
+    V60_RR_WHL_SPD: 51
+  response: 1EC62E8004622B0933
+- expected_values:
+    V60_RR_WHL_SPD: 52
+  response: 1EC62E8004622B0934
+- expected_values:
+    V60_RR_WHL_SPD: 53
+  response: 1EC62E8004622B0935
+- expected_values:
+    V60_RR_WHL_SPD: 88
+  response: 1EC62E8004622B0958
+- expected_values:
+    V60_RR_WHL_SPD: 117
+  response: 1EC62E8004622B0975
