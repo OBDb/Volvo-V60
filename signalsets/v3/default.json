@@ -670,7 +670,7 @@
   "signals": [
     {"id": "V60_FUEL_P", "path": "Fuel", "fmt": { "len": 16, "max": 6553500, "mul": 100, "unit": "unknown" }, "name": "Fuel pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 30, "dbgfilter": { "to": 2014, "from": 2016 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
     {"id": "V60_FLI_INPUT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Fuel level input", "suggestedMetric": "fuelTankLevel"}
   ]},
