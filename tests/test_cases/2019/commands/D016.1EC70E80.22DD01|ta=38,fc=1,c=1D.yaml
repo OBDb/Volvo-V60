@@ -1,0 +1,26 @@
+command_id: D016.1EC70E80.22DD01|ta=38,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_DEM_ODO: 147508
+  response: 1EC70E800662DD01024034
+- expected_values:
+    V60_DEM_ODO: 147511
+  response: 1EC70E800662DD01024037
+- expected_values:
+    V60_DEM_ODO: 147537
+  response: 1EC70E800662DD01024051
+- expected_values:
+    V60_DEM_ODO: 147539
+  response: 1EC70E800662DD01024053
+- expected_values:
+    V60_DEM_ODO: 147540
+  response: 1EC70E800662DD01024054
+- expected_values:
+    V60_DEM_ODO: 147543
+  response: 1EC70E800662DD01024057
+- expected_values:
+    V60_DEM_ODO: 147544
+  response: 1EC70E800662DD01024058
+- expected_values:
+    V60_DEM_ODO: 147546
+  response: 1EC70E800662DD0102405A

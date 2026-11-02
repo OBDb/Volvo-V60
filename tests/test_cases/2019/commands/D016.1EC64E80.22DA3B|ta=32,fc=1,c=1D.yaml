@@ -1,0 +1,20 @@
+command_id: D016.1EC64E80.22DA3B|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    V60_ATF_T: 46
+  response: 1EC64E800562DA3B002E
+- expected_values:
+    V60_ATF_T: 48
+  response: 1EC64E800562DA3B0030
+- expected_values:
+    V60_ATF_T: 59
+  response: 1EC64E800562DA3B003B
+- expected_values:
+    V60_ATF_T: 60
+  response: 1EC64E800562DA3B003C
+- expected_values:
+    V60_ATF_T: 66
+  response: 1EC64E800562DA3B0042
+- expected_values:
+    V60_ATF_T: 67
+  response: 1EC64E800562DA3B0043
